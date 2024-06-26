@@ -1,0 +1,288 @@
+Total SPREADSHEET files found: 71
+Total size of SPREADSHEET files: 0.04 MB
+
+List of SPREADSHEET files:
+Name: Weir Measurements.xlsx
+Size: 0.01 MB
+ID: 15RC0rptOdBFiDMgyGXdluhCbc8G8VFcuH_Ac-wUr60A
+--------------------
+Name: Sonde Calibration
+Size: 0.00 MB
+ID: 1eEj8TNtHCi1sAnmLublOzwq7Kl18Q7TwTXh6UEmNzfc
+--------------------
+Name: Inventoy_2017-2021_Yousef
+Size: 0.02 MB
+ID: 1Cn-49iBeHUnNzEdHxn3VOSHLB2sKxIWeGdC0AVvsvcU
+--------------------
+Name: FlowTracker Summary Data
+Size: 0.00 MB
+ID: 1tLjNE9tJdrBMSzRHdrE8V0r4Pyewpwuf-HNXWks9UU4
+--------------------
+Name: Water Quality Analysis
+Size: 0.00 MB
+ID: 1Y64dCLsbMsoNmfh65MV9LVOmKUv5ECHiXy2dhQTpj-o
+--------------------
+Name: Weather Analysis
+Size: 0.00 MB
+ID: 1RFnNh9T9XHNLYj0ZG41rud_HglfYulszUYNqsmQ-gOE
+--------------------
+Name: Water Quality Assurance
+Size: 0.00 MB
+ID: 1tk2X59A9DDprnieAggJleLzdsQaZj07UvISBZzUSVYQ
+--------------------
+Name: Copy of Calibration_New_Sonde.xlsx
+Size: 0.00 MB
+ID: 1gvGyZX-UMqppP-rHGmARG3Ceu2RdrxCzGk3shNnat-w
+--------------------
+Name: Sonde Calibration Form (Responses)
+Size: 0.00 MB
+ID: 1JcJJZIW1H2THSNzrSWbiWMZuLwj-Tzo7qG-wipsLf4I
+--------------------
+Name: FlowTracker Data
+Size: 0.00 MB
+ID: 19xytnp14TBleIDN_0hMUbOhQwCoRCw53tdtLs6W3IPI
+--------------------
+Name: New Undergrad Interviews
+Size: 0.00 MB
+ID: 1zzmWTd7YZewaJLOGmxFyuq6kDPZEXbXMophn-eECbfQ
+--------------------
+Name: ActionPlan_TaskDivision
+Size: 0.00 MB
+ID: 1M__F5dwx9PX1nCNxjLHzCD9m5t5PV5mehh1S4CuXgt4
+--------------------
+Name: LEWAS Maintenance Logging
+Size: 0.00 MB
+ID: 1w-K5ROe2ADizkmroiKtCTqaDqRwi_qR3hqZRATlLKtU
+--------------------
+Name: VR Project Charts
+Size: 0.00 MB
+ID: 1IQJpM9WUTYIAEdlJH-gmHZrG_TtBR9fO-t5h_Ej2JQ0
+--------------------
+Name: LEWAS Scrum Board
+Size: 0.00 MB
+ID: 1v7vwmtdkO_p-5rH4j-9kIM2o0qsX6bxI8EU22luDVIg
+--------------------
+Name: LEWAS Lab Contacts
+Size: 0.00 MB
+ID: 1dNcleRntsTUWieCOu5T6UipbDiKV0TherXky5rF-8cg
+--------------------
+Name: Implementation Help Tracker
+Size: 0.00 MB
+ID: 1FAUqYfjPXGUARHeAqhf5BL433qyXG76ObehzkRxu3sY
+--------------------
+Name: Parts
+Size: 0.00 MB
+ID: 1LO2rqY1jYlPTGgJxCJkHcanOPtKFLnMHVb8AKFxbCQ8
+--------------------
+Name: RET Accomplishments
+Size: 0.00 MB
+ID: 18DQbE1EE1rJ0maf_olOrfB5iECPZxH9S8Nk_TXp--uw
+--------------------
+Name: ICTAS Order_7.9.2018
+Size: 0.00 MB
+ID: 1PpWNNcW9WLa_hjp9wuyWGJWY0762Jfqje_-UuzoSAC4
+--------------------
+Name: ICTAS Order_10.9.2018
+Size: 0.00 MB
+ID: 10VVpkVCWpQmizGgzGf53QO_8HR7Nu6iwHGwXXBj1_vs
+--------------------
+Name: ICTAS Order_ 6.25.2018
+Size: 0.00 MB
+ID: 1JHplbx17dBUdQdORACeinhcJ2ojEXRsq-rxAX7fSV1o
+--------------------
+Name: ICTAS Order_ 5.1.2018
+Size: 0.00 MB
+ID: 1YeITwz5sFxqrQp6labow0fDFHZVkVsEJ1NMrpCewYMs
+--------------------
+Name: ICTAS Order_ 9.14.2018
+Size: 0.00 MB
+ID: 1qhyvCVT-f0ANzgPZCqI5kWS3hdrbGdO812VvJKYGliU
+--------------------
+Name: ICTAS Order_ 4.12.2018
+Size: 0.00 MB
+ID: 1ajosrXY3b2jjRidKQaiRsTSeCaKp7f2l7galCzgXQEQ
+--------------------
+Name: ICTAS Order_ 8.29.2018
+Size: 0.00 MB
+ID: 17YeBvbqoiemIdq07p9Sid8a6mtsdI3rhFw-JQKc6tSQ
+--------------------
+Name: ICTAS Order_ 3.27.2018
+Size: 0.00 MB
+ID: 1TJHM4jbgwu-RCWd0AbKrThqTExlyrQuPPuH0OB2qrc0
+--------------------
+Name: ICTAS Order_ 4.9.2018
+Size: 0.00 MB
+ID: 1WmS-R0Lzo0G5-aq6qYJ8gJLvXwmajiF94sn-SPYEiVw
+--------------------
+Name: ICTAS Order_ 6.8.2018
+Size: 0.00 MB
+ID: 1LC1yqsPxIwGwzzQWHRTQ66bhwlUKjDPHwCT0FMz72og
+--------------------
+Name: ICTAS Order_ 2.26.2018
+Size: 0.00 MB
+ID: 19AuhSR842uL3jcoL4MjEZDFdvv7MbOtZQ9aWvrt6uOY
+--------------------
+Name: ICTAS Order_ 2.20.2019
+Size: 0.00 MB
+ID: 1Zvt3R5W_rQ8m3wVAwnGRaoNQzcMhEc5Qg2kPJQU4LE8
+--------------------
+Name: RET Applicants Participants and Followup
+Size: 0.00 MB
+ID: 1gNpiXQ-r3j1K0UjCyfSd8qyfi44NQIVdJmnOvdRp63k
+--------------------
+Name: McBryde Portable Sensor Inventory 2/14/19
+Size: 0.00 MB
+ID: 1MqumIBf5AUFKzXgQu_d3027D0fkWUn92R19iZ7YzNhw
+--------------------
+Name: 4/10/18 WaterSensors_Inventory
+Size: 0.00 MB
+ID: 1zOerOVOBffTVkcAQEdr8_qXbuj_VfaQPsG8fGV9Z728
+--------------------
+Name: CanvasGuestListemailsonly
+Size: 0.00 MB
+ID: 1bx69naL2EZhTgjbq1FydwPJ_Y2x4pWmFKE2ttjlSyZ0
+--------------------
+Name: 2018 REU Students
+Size: 0.00 MB
+ID: 1mX8HIgwvVwSxW-0ZOgu_BVkR3shS_GO38UAas2moxzs
+--------------------
+Name: KAUST Post Program Survey.csv
+Size: 0.00 MB
+ID: 1lWsyWS3sKwXf_9XO9XVVxafaAnJ2K2rGJJ0Ba17R9Zw
+--------------------
+Name: Copy of Ultrasonic_2017_07_06_to_07_13.csv
+Size: 0.00 MB
+ID: 1AYGep-CwCg26mxsIG-k--DgI_qC_Clu1Lo9747WHDJY
+--------------------
+Name: RE 2018 Shirts
+Size: 0.00 MB
+ID: 10QulWLNusFx-qDPDr5T5wmLyqMvfvzlfgokTLrtNWag
+--------------------
+Name: Copy of Dilution Guaging_tracer27.xls
+Size: 0.00 MB
+ID: 1UKFnSSEVUnWue9Hb4tabwoUF27p6cqcwxgrQ1hjOdxA
+--------------------
+Name: Argonaut Metrics
+Size: 0.00 MB
+ID: 1jAe_V-mgfn_1qll5v51ihLy6CtcKZ6ycYmpTZPuA8ZM
+--------------------
+Name: Spring 2018 Flow Verification/ULT Comparison
+Size: 0.00 MB
+ID: 1X9wNPIcWy2wsOkh0v7JJGw1SPlLwbSqZZENX4D2NOEA
+--------------------
+Name: 4-6-18-LEWAS Cross Section (1).xlsx
+Size: 0.00 MB
+ID: 1TMyRupyHzc4JkskCj70pBN9YsrR4spDtljQRxSn0qd4
+--------------------
+Name: ULT_Sample_Calcs_12_2017.xlsx
+Size: 0.00 MB
+ID: 1yuCk8xLk2Zw9P5IZG9R86Nj9NJES5RZ9ixQqz2_b9sk
+--------------------
+Name: Copy of Copy of Pipe Weir Flow Data
+Size: 0.00 MB
+ID: 10_tNeADAzvjkUGwTPMv7d7JL8_VQvZSQTL6lrP9XijI
+--------------------
+Name: Copy of Fridaysv3.xlsx
+Size: 0.00 MB
+ID: 1ipW0w8UKQNpOL57MQTpSzRWzatde9pwsORinwFDY3dA
+--------------------
+Name: Copy of Fridaysv3.xlsx
+Size: 0.00 MB
+ID: 1_EHot937JVtbb77QB2sY5CpintAX2r6SnoOjPYF8XTQ
+--------------------
+Name: Copy of Fridaysv5
+Size: 0.00 MB
+ID: 1FeamhqQNs4NfjAzJuQJlBG3DkcZPp89Ss6tsr3uCWm0
+--------------------
+Name: Copy of RET Timesheet
+Size: 0.00 MB
+ID: 1tscui1f7uOjYZtZzxsXh7rYCn1_gs3rHy9ayZNxUM6Q
+--------------------
+Name: Copy of Weekly Timesheet Template
+Size: 0.00 MB
+ID: 1ayZXWiuYGnsj4BCVlS5Bq9u76QXa8n6nmg19FIk7NZ0
+--------------------
+Name: Copy of 2018_04_21
+Size: 0.00 MB
+ID: 19PcyAIc93qKm2ZVl1MG_B5zid4ohBXtbNLqbQddSxbM
+--------------------
+Name: Copy of LEWAS Cross Section.xlsx
+Size: 0.00 MB
+ID: 1rocv0nSR7g_TZKpHW-ti7pf2PcN-1EmQ6tHg3PvScuk
+--------------------
+Name: Copy of Inventory_until_Oct_2016.xlsx
+Size: 0.00 MB
+ID: 1EYiv9Pez_nJoLTBfEvnWqb-WbNuvoDobTQTT5vjlstc
+--------------------
+Name: Copy of Inventory.xlsx
+Size: 0.00 MB
+ID: 1HxwLmE3BWxdpJaSNo6qe6bkAEUK_KMCiTSWjHx9v0uY
+--------------------
+Name: Copy of Updated_Inventory_Oct_2016.xlsx
+Size: 0.00 MB
+ID: 1FeK2bblQnMlTPmWrghqMIA04VUruxFTVsPur5exKE6A
+--------------------
+Name: Copy of Inventory In Kelly Hall131
+Size: 0.00 MB
+ID: 1JvRuwm6ZAeJVnWor0vW6TLqhwOt_DNmaZXp63MUva1Q
+--------------------
+Name: Copy of Wish List 2017
+Size: 0.00 MB
+ID: 1_kAgdk937g6n6-FUc1Qq1V_1zsmS8YkULX1S50ZhMrs
+--------------------
+Name: Copy of Calibration_Old_Sonde.xlsx
+Size: 0.00 MB
+ID: 1qhL54Nx0bpSHeDruK4qLc4mZGHp2waModpn6JWzUNKQ
+--------------------
+Name: Copy of Kelly Hall 131 Resources
+Size: 0.00 MB
+ID: 17qp2S43RPUPD4uyEej7DNbehEG_8U6oDQPtvZcjAqbE
+--------------------
+Name: Copy of Case Studies
+Size: 0.00 MB
+ID: 1zil6qS6qF47g9dCB3nqu9eaoDsXoq3ZM6z4TFw2prqg
+--------------------
+Name: Copy of HW#7 - Water Quality 1
+Size: 0.00 MB
+ID: 1omVYjPtkbrjVe0a-4cQR5WROJ0CgMsoynb7bUKcTTsg
+--------------------
+Name: Copy of LEWAS Implementation in Courses for Fall 2016
+Size: 0.00 MB
+ID: 1ZOJ0xElUZANL_p8vH1oLSiV2Cw62yQlwgH2Vic_Ta2Y
+--------------------
+Name: 4_21_2018_Dilution Guaging_tracer27.xls
+Size: 0.00 MB
+ID: 1uLtWQMxuRfnIt8dJpgtEMBgX4kgVrLoz-46ERfVoCcQ
+--------------------
+Name: 4_21_2018_tracer.csv
+Size: 0.00 MB
+ID: 1qGsWT2LpFmxIB3fpiE0NlYMZHyvGp6n9SQkNmrPeaOA
+--------------------
+Name: Copy of 2017_Spring Outreach Lesson Planning
+Size: 0.00 MB
+ID: 13Lu7VPIeNo3Qy4XxtGw4eFgBvDBvqowHPclTh5_NSc8
+--------------------
+Name: Stream cross-section calcs 2018.xlsx
+Size: 0.00 MB
+ID: 1-da2Up-MPaz7sabddy4szBBfOWez0Y6VLj-bu_-iqj0
+--------------------
+Name: LEWAS Course Assistance 2017
+Size: 0.00 MB
+ID: 11ufab5yzM3UCQjtRsqxCg8yN0t2pv1l0bHC6vvRM--c
+--------------------
+Name: Static LEWAS Data
+Size: 0.00 MB
+ID: 1RGdHGTq3b_pvgPaarfiNC9mBr-hrgby5JJxD701J9X0
+--------------------
+Name: ENGE 1215 Data Sheet
+Size: 0.00 MB
+ID: 1sqeBu1l3R_Mr-fuUnv2BvQLAw01xAIitSBO1sTMnq1U
+--------------------
+Name: LEWAS API Configuration
+Size: 0.00 MB
+ID: 1TE43LaG7KiT4phIm-y6CRi67FfTtEm6QiB1gxRETzkI
+--------------------
+Name: LEWAS Course Assistance 2015
+Size: 0.00 MB
+ID: 1EyiYhWKFL4vPt7ET9Z6c7_-hbvj30A3Ss3sRXKTzIHc
+--------------------

@@ -1,0 +1,276 @@
+Total PRESENTATION files found: 68
+Total size of PRESENTATION files: 30.72 MB
+
+List of PRESENTATION files:
+Name:  LEWAS Systems
+Size: 1.26 MB
+ID: 1MxyMscjpjAxmGupFf0iA4TtMPHGUyuh7DrY4AULBImE
+--------------------
+Name:  LEWAS Civil Team
+Size: 25.16 MB
+ID: 16Y9Og53jWTihhzfiIR8RNQG9ZO0iX56_2AseJCoOhrQ
+--------------------
+Name: Time Series Analysis of Historical Water Quality Data - Conference Presentation
+Size: 4.30 MB
+ID: 1eONHdFsaUohTdxoe0e20pGmMA7u1UcZeCCXt275s-FQ
+--------------------
+Name: LEWAS Group Summer Plans
+Size: 0.00 MB
+ID: 1clyplHL2LxhNm5oRCPD-Edhmap3JF8XAq5elMjECsrY
+--------------------
+Name: End-of-Summer Presentaion
+Size: 0.00 MB
+ID: 1lR132X91a9uyqhua5IPv_6REA-X7dwPpG1OrPcAFfbA
+--------------------
+Name: Summer Research Symposium Progress Meeting 7/22/21
+Size: 0.00 MB
+ID: 1dUwhCsI-u1ynoTKoadFDqUK3SU9geTUVpH-tANn_F94
+--------------------
+Name: Undergrad Experience Exposition
+Size: 0.00 MB
+ID: 1kKDm6tR_NLEyPaaEypB10qAWeD6h8S5WP2QsGoCR-CA
+--------------------
+Name: Copy of CEE Research Day Poster - Thomas Westfall
+Size: 0.00 MB
+ID: 1G8egVRfAMjP5WBX3lFbes_aVHsT7RoOjczKTfc0Chb4
+--------------------
+Name: LEWAS_Intro.pptx
+Size: 0.00 MB
+ID: 1cIqc7fe-qb0zlxwQCm1_fPcvGYAjHzmm8aym6-3lllQ
+--------------------
+Name: Summer 2021
+Size: 0.00 MB
+ID: 1QcJh4uTnJewrYQg88KbnEFQO2pK95guEBFCSoXkzJas
+--------------------
+Name: Interdisciplinary
+Size: 0.00 MB
+ID: 17gIuFQHwzg9c2Gni6MIy_zFEyOzaOrTfZlAqBBVoggo
+--------------------
+Name: CT_Meeting_2/11/2020
+Size: 0.00 MB
+ID: 14C5mHa_m6owwsCX4f9fQyv-eNn9sRNNK1Z7ihGyFzw4
+--------------------
+Name: Slack and Asana
+Size: 0.00 MB
+ID: 1VfXEo0XKnWwmH6B02s_mbnz7eiqg7uy9GKpxqXW16wM
+--------------------
+Name: LEWAS Flow Meter (Argonaut) Challenges
+Size: 0.00 MB
+ID: 1jhcd-DpFqfzh_4M2NyNeWPDbtm-R0bxFiurWmJ30THU
+--------------------
+Name: Electrical Poster Draft
+Size: 0.00 MB
+ID: 1GEDWoF0Lz8H36PxnkDyJ82_85bqP9AqThGuFaBTXQW8
+--------------------
+Name: PowerMonitorPresentation
+Size: 0.00 MB
+ID: 1QQlLhWPiPUTs0ZjRuYfjnAzanNGopBJedhuBNtY-Bp0
+--------------------
+Name: PowerMonitorPresentation (1)
+Size: 0.00 MB
+ID: 1RT-ihylIE5O7Dui69aD1LNWfopBDxHaFHpYr7LNS_9o
+--------------------
+Name: Poster Template
+Size: 0.00 MB
+ID: 1-WKs6OVE6uEP8MffeOhSzucoEFBts499v6ZX-bTRFwc
+--------------------
+Name: LEWAS Virtual Reality
+Size: 0.00 MB
+ID: 1j7-5BbpBQc3Bviwl9HbKWjrFcCVM_TKunC2NMx8fYtw
+--------------------
+Name: Copy of KAUST Concluding Ceremony.pptx
+Size: 0.00 MB
+ID: 1eXoYSa08Ecgc10isaqly8LGCAXY6Jw8sX7P0n8jra0U
+--------------------
+Name: KAUST Concluding Ceremony.pptm
+Size: 0.00 MB
+ID: 1CrfE2vD4Jgfc-qCMFz7YxNiFlfh30wNiBnpG6lmE_8Y
+--------------------
+Name: Copy of Undergrad Research Presentation Spring 2019
+Size: 0.00 MB
+ID: 1uLis35b3N5bDYFGIbrq4fETCS1nZjSaQW_cShn7Fatc
+--------------------
+Name: Undergrad Research Presentation Spring 2019
+Size: 0.00 MB
+ID: 15EWb8k4-jjzLeLHHoMA6nzyLjAk0iy406z1pIJcdB84
+--------------------
+Name: PEERS Watershed Activities
+Size: 0.00 MB
+ID: 1bldcE6y1h8XSGg86QccGRo-qpEGOXfJBwUQvzetSICo
+--------------------
+Name: Copy of 2017_04_VT_Engage
+Size: 0.00 MB
+ID: 1_0Pwzb8JM4gLV6Pbr8djapeImrPfDLHJgx4mU2plJUs
+--------------------
+Name: Copy of 2016_10_LEWAS_Overview_ICTAS_draft4.pptx
+Size: 0.00 MB
+ID: 1Go5sUTzWrdEw8bh15Fh_p0Uz-FBN-Lnm---mu6Edlkc
+--------------------
+Name: 2018_02_25_LEWAS_Intro
+Size: 0.00 MB
+ID: 1gCBrvjqtwvh1qGFvEEWG9RLB7dsUOneE2CEwOOEuTrM
+--------------------
+Name: ENGE 1216 Presentation Slides
+Size: 0.00 MB
+ID: 1Kc7GQgalyB5fGx_3hF1r16gpJyicwf5Ah2EM2b6utEM
+--------------------
+Name: Undergrad Presentation Fall 2018 Dec 3
+Size: 0.00 MB
+ID: 18BiraqlzEPkzt2LPVxUBZ_C_4hKau10TIEkQxp3ZFqw
+--------------------
+Name: Naser
+Size: 0.00 MB
+ID: 1gzItK9zwzwKGsTKiEYJBgpHqW9HRpvfTzLajwVnuWww
+--------------------
+Name: Basem
+Size: 0.00 MB
+ID: 1NBmXhpp7yCjOBcKpeyRiz9d-XgfNxpq5AK4TqwdF1lo
+--------------------
+Name: Casey
+Size: 0.00 MB
+ID: 1Yu_gnjaH4PL2w_Tqo8tqo5oqKqsUTf1Udul7GSUzfmo
+--------------------
+Name: Erin S.
+Size: 0.00 MB
+ID: 1DmUtFkjF87sfuqmWhTFlE1BwSMMZXV35PJ-mbyvgEbM
+--------------------
+Name: Christian
+Size: 0.00 MB
+ID: 1FXoxYgsrQUmSh9jFj-m4shhQxLuxGF_CEn_2KAfMHDo
+--------------------
+Name: Erin M.
+Size: 0.00 MB
+ID: 1VuWcA91ssz2jdLh6atq40aVQNzT7iZUMrwXJpP4iC7M
+--------------------
+Name: Trevor
+Size: 0.00 MB
+ID: 1OaNMzmiGGyzSr8k-AAjjdKxLDRq4SWsoeLvMurXalhE
+--------------------
+Name: Mira
+Size: 0.00 MB
+ID: 1ACabPHSWpX1RtiovWzwVh07zRlCYk5jw62IH7Vxmls4
+--------------------
+Name: Sara
+Size: 0.00 MB
+ID: 1ko0gEF1ISsmRNnwFROVML7yVvfvFKoEQ8hE_SIdRX4s
+--------------------
+Name: Alondra
+Size: 0.00 MB
+ID: 195zg9T2dY44JcHqBR2oBHTuIi-wLkrgophttzyTcY_M
+--------------------
+Name: Claire
+Size: 0.00 MB
+ID: 1_8yee946pne8NeO-wMHR9J5qX5x3frkiRSsdr5Xphb8
+--------------------
+Name: NSF REU_2018_Concluding Ceremony.pptm
+Size: 0.00 MB
+ID: 18ItGJXxLlefP1nlMtLh1a4sK5VUg-P0a_5LfQ5wVjgY
+--------------------
+Name: Poster Template
+Size: 0.00 MB
+ID: 1qZNqRK8y5jfrAiZlvgJy-4yNqHC-M7lrBVdIXUNxCBA
+--------------------
+Name: 2017 ENGE 1215 Goff Presentation Slides
+Size: 0.00 MB
+ID: 1tbEGtoCtNU8rmsdzuKvUmMo0ucjB-_kocejCAnRfR3U
+--------------------
+Name: Ayman Alzomaili
+Size: 0.00 MB
+ID: 1prJl6Rz5PuPiKdBAm-y0ONZudkzFha4VfyMPdGhL9mE
+--------------------
+Name: Jaafar
+Size: 0.00 MB
+ID: 1PF3tIvYISET5ucD3fRxuXexMEXmtL_yaO-2GbPtjlPs
+--------------------
+Name: Yasmeen
+Size: 0.00 MB
+ID: 1yhoDLGLMFmPr-e89yhr3RIvZEaySuRk_M7jeP7IeMlE
+--------------------
+Name: Faris
+Size: 0.00 MB
+ID: 1US8K8dqErzBfswyR_bsZwabE3CGa_jAOBtauGidXZNA
+--------------------
+Name: Abdulelah
+Size: 0.00 MB
+ID: 1cFRqLzrqONp_WHyUkPHccGivpISo9Hr9awnDFPjssZE
+--------------------
+Name: Hassan A.
+Size: 0.00 MB
+ID: 1UjFDdULJZvECV9W4eq6En964D4PGwg62pYXSN2iQ7zE
+--------------------
+Name: KAUST Orientation
+Size: 0.00 MB
+ID: 1eTpEUplt5SHdHdF7j9GI8LPZsyOXCuWVMX6uiLV_DGQ
+--------------------
+Name: 2017 ENGE 1414 Presentation Slides
+Size: 0.00 MB
+ID: 1C4lcW-F6M6AeUbnxzgj1ap0AKPwOSygXVi_ozef3p10
+--------------------
+Name: Copy of VR Poster Final.pptx
+Size: 0.00 MB
+ID: 1w_IarFZAtr5kH5w1VcZZNtJ3lwZw94rPjplSM4Rbovc
+--------------------
+Name: Copy of Copy of 11/14/2016 LEWAS Illicit Discharge Events
+Size: 0.00 MB
+ID: 154_mnBPT5v_4zdMeyv2PBiHgNPSe_zoNltS89axU9xg
+--------------------
+Name: Copy of 2017_04_05_overview_VT_India.pptx
+Size: 0.00 MB
+ID: 1-xXL87E4Txd8y1GKYxi-ALiYFAJWuIa6VXdGLGa61hI
+--------------------
+Name: Copy of 2017_06_25_ASEE2017_Benefits of Undergrads_v1.pptx
+Size: 0.00 MB
+ID: 1lbVmNU1L-3lugIesZgrQJ2prQRCta1S-j7f-2C_mjN0
+--------------------
+Name: Copy of Constructing a Weir
+Size: 0.00 MB
+ID: 1tl2b2GNkX28x6fvaee-XGdvcTj9olnYehDpjfm8Dz0U
+--------------------
+Name: Copy of Inventory_VT_tagsAll_until_March2017Spring_verified DB.pptx
+Size: 0.00 MB
+ID: 1h1G5O9V09QDZ5VhYWJmhO_LIwHPVLGKUh5N0z6I8-Dk
+--------------------
+Name: Copy of 11/14/2016 LEWAS Illicit Discharge Events
+Size: 0.00 MB
+ID: 1n7mPIXgn0d6xw12TbxQfTlJoDfScsNa3NCN9UGc9zd8
+--------------------
+Name: Mont. Co Spacial Citizen Science
+Size: 0.00 MB
+ID: 1Hkv0C_l9nGd5Rh1W4DABBfQYT5AgHO6u_GxsuUHm3Es
+--------------------
+Name: Copy of 2017 ENGE 1215 Paretti Presentation Slides
+Size: 0.00 MB
+ID: 1Qe2E125YzqjTMvM-tziIDxVKr0hFVVl6SVM3hkB7kv0
+--------------------
+Name: 2018 Raspberry Pi Intro
+Size: 0.00 MB
+ID: 1lw00YmT2vF6zyeuBHy4KkRl_Bh4plIeJsx7aTr3vOV0
+--------------------
+Name: Copy of PEERS Watershed Activities
+Size: 0.00 MB
+ID: 1jZhEn-SNqTUsi6CvEqMNt-bXthjirWdSQfSnBrp6Pdg
+--------------------
+Name: Copy of 2017_Spring Outreach Schedule
+Size: 0.00 MB
+ID: 1QiBUYJgepz2qItjl-7N6btt6Q4J4L3FNkxrF3s2kW8A
+--------------------
+Name: 2018 VR Plans
+Size: 0.00 MB
+ID: 1sqPHQw5pvOFO-_LjBxN-5L-_PZbOUMRDMkaSK0fNXfo
+--------------------
+Name: 2017 ENGE 1215 "Senior Insights" Presentation
+Size: 0.00 MB
+ID: 1u-D8jfLg_zzX0B2_C0FX7SNy4xEWKR5_SY_pCvZ4T2U
+--------------------
+Name: 2017 ENGE 1215 Paretti Presentation Slides
+Size: 0.00 MB
+ID: 1hGVMQwo6rnxgo5U2EqzG5XZQebA_91dSZSWWEuYMz8E
+--------------------
+Name: 2016_09_LEWAS_Overview.pptx
+Size: 0.00 MB
+ID: 1BUD4_IIxrcK3aCcP4fo2kPf_UgxIN2qQ0iAzFipvESc
+--------------------
+Name: Copy of ENGE 1216 Presentation Slides
+Size: 0.00 MB
+ID: 1ws75BJCdgJ2wV9Yau9bw2SRcbpyBy62GnI3nxO8zAkg
+--------------------

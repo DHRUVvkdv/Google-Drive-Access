@@ -1,0 +1,960 @@
+Total DOCUMENT files found: 239
+Total size of DOCUMENT files: 0.91 MB
+
+List of DOCUMENT files:
+Name: Minutes_10_16_2019
+Size: 0.02 MB
+ID: 1LjOskLHwxRUql3Jrsi3nHm3kjNXI49UVWVoQiQr_PaM
+--------------------
+Name: Minutes_10_02_2019
+Size: 0.02 MB
+ID: 1fVvIjIw66FLpuEi4nI2kp3nDykx3CUaNomwUDR6yA44
+--------------------
+Name: Minutes_09_04_2019
+Size: 0.01 MB
+ID: 1Xx1WmbWolgGWMYAk1bENORlW3Zm6VX1met5JfPRyqk8
+--------------------
+Name: Summer_24_Minutes
+Size: 0.01 MB
+ID: 1F5une5M6M-3380_mWyJKdq7nNeUsJBVNQOPVaxp0szE
+--------------------
+Name: On_Going_LEWAS_Data_Quality_Doc
+Size: 0.00 MB
+ID: 1R62JJp8ynMmXcWkTyGwqgtRnA0Urdnfp7xLwbqLXd4g
+--------------------
+Name: Sonde Inventory
+Size: 0.01 MB
+ID: 1DYxPfNYfGkx_O_oXflkzNBU4J7FVSjClwAF1_AmuNOo
+--------------------
+Name: Summer 2024 Plan
+Size: 0.01 MB
+ID: 1-ff7Az0u5iHlrA0MsFaXashLZXEo9w0hAXcj7D6x2nI
+--------------------
+Name: How to/ what is ULT
+Size: 0.00 MB
+ID: 1Y41ym9GwExf9XTSseC8DCbg5G1McDIGpg21dYqPg8q0
+--------------------
+Name: Sonde Update
+Size: 0.13 MB
+ID: 11qcJ2jSU-BMMAFmlTCHIY6UU3k2J3wEcakqh-W5VZ1s
+--------------------
+Name: Minutes
+Size: 0.02 MB
+ID: 1f1czywhF-cTTHNZH3QtWVpVUB6HII5IY0TTF1MgWcvQ
+--------------------
+Name: System_Trouble_Shooting
+Size: 0.00 MB
+ID: 1HxWxZeRSsFLkMFTx9ynUYJKL8ClPzLuJPOpXEFuAHIY
+--------------------
+Name: IUSE_info_for_LEAWS_webiste
+Size: 0.01 MB
+ID: 1Xw2ZVtkf_AGKBCsx1Db75pMru2SXmzz1tseuGdNiFn8
+--------------------
+Name: On-boarding_document
+Size: 0.00 MB
+ID: 1iS0RPs_3hfELYCsIFj8KVeAXJmEmaFh_CUUrbPN6kAs
+--------------------
+Name: Employment Announcement: LEWAS Lab
+Size: 0.00 MB
+ID: 1YA3FtB3IeeeQzc22PuuEFG7IgA9uqw26Ze6guwM3aEc
+--------------------
+Name: Sonde Calibration Instructions
+Size: 0.68 MB
+ID: 1X9Ty-T8B5VOKUl76kpNOIgDBAbq_vi7saZSJ0de2SM4
+--------------------
+Name: Notes
+Size: 0.00 MB
+ID: 1E3tAL6P9o5IaqVS8PZnxzXFp6L8QQ-1P1ylJEpFps9o
+--------------------
+Name: Project_Updates_LEWAS_Data_Processing
+Size: 0.00 MB
+ID: 1kK9kI_BUzwCBEB81EVZ31XhevpCI34vSvixhi3sBLro
+--------------------
+Name: metadata_for_raw_data
+Size: 0.00 MB
+ID: 1ob4JWo7ZX8ABSXMD5uOrwCX6lEgPdYWz92ykDLXIR7s
+--------------------
+Name: metadata_for_raw_data
+Size: 0.00 MB
+ID: 1Nt9Z4yNm3RVSCMmrd055z_FqKlFlswr0MWXql644IDE
+--------------------
+Name: metadata_for_raw_data
+Size: 0.00 MB
+ID: 15-BkYOOEjJx2x18K59jWLTv8fG9odXDmKGH93tzDY5I
+--------------------
+Name: metadata_for_raw_data
+Size: 0.00 MB
+ID: 1VSkeATMuh2M_jmQGP3F11eaII9fpFon4n3Hg52dVZ0w
+--------------------
+Name: Data Quality Assurance Plan
+Size: 0.00 MB
+ID: 1GWI6U_9mXwnS8JG123nrvEgbmWQFJm1m4oho7MEocp8
+--------------------
+Name: Alex-2 Update
+Size: 0.00 MB
+ID: 1RbWWsOJrFfNPkgoIzqzFDO_mQ_-8mRcsWJodbilCSR8
+--------------------
+Name: Sonde Call 8/3/21
+Size: 0.00 MB
+ID: 1wb80xZDjdbiOhHeZSEcNdJLmvCMHMFdpvjCuYHS0mQ0
+--------------------
+Name: Set up Instructions
+Size: 0.00 MB
+ID: 19S6dILSDqTqJ_-MIpsMKzjI-95EhS-hVJrbsVhXpjeU
+--------------------
+Name: Argonaut-to-System_Connection_Issue
+Size: 0.00 MB
+ID: 1Wv0p5rcirT-M-La7WWKKWasLG6aO6_-75OGcYemqfOI
+--------------------
+Name: Sonde Call 8/4/21
+Size: 0.00 MB
+ID: 1duGla6opY5p66DJLCHqh-VFhQoj3zqXI9etfZymMUuw
+--------------------
+Name: Copy of Project&Report_Paper_Gozum_FinalVersion
+Size: 0.00 MB
+ID: 1-LNRg1iCkQkR3ds63RZhSLwiYIQ9PuwVTYuCN7zHclE
+--------------------
+Name: Average Time for Routine Tasks
+Size: 0.00 MB
+ID: 1E9qMBEgUuEViYUqms-pdhCOSSBDb_W1LrXTQH3hPqxU
+--------------------
+Name: Sonde Update Information
+Size: 0.00 MB
+ID: 1W8HRNAS5p7OYUuMdyxKRL1oZ2_qkpRX4LA6nqLnKGmg
+--------------------
+Name: Weekly Report
+Size: 0.00 MB
+ID: 12uFFycA4qcxtrFShib4Ilk9bV17pBHAcL7OFnVNUPKI
+--------------------
+Name: Time Series Analysis of Historical Water Quality Data Report
+Size: 0.00 MB
+ID: 1oUZagcysDXWSiSgqj4Rhvtk4-za0VdaN8wU3xCzaeNE
+--------------------
+Name: Minutes for Meetings
+Size: 0.00 MB
+ID: 1Yee9wWY4Gx1FWl83HoqwrOBf-hu0qm0wMDtzg95agM0
+--------------------
+Name: Summer Symposium Research Notes
+Size: 0.00 MB
+ID: 1McFgKf2RMr4XshYH84sHHJ1uxPEu1JuBo-SUrEYncSI
+--------------------
+Name: Report
+Size: 0.00 MB
+ID: 1VIDcoAz7AiFPyyHH3F2UtAohBLaK-_2IV5CitmwwTEE
+--------------------
+Name: Troubleshooting
+Size: 0.00 MB
+ID: 1SzYC9Vk6Cs5QafmjMjTyTJrUHxHXETS6XifaGCn5n8I
+--------------------
+Name: Sonde Call 8/9/21
+Size: 0.00 MB
+ID: 1FvrOj5rzkh1PPf9Cv90-kfoaXB0n9NDNDictaCAar6s
+--------------------
+Name: Summary of Plan for Website
+Size: 0.00 MB
+ID: 1J9U0LWovD1Z2r8MZVbPv3SLT23kXKHxjFFCCTCvlu9I
+--------------------
+Name: Sonde Call 7/13/21
+Size: 0.00 MB
+ID: 1yCaoltFV7FJ_PghU6EJhTPiqO7dzUD1RfXhMw74a35c
+--------------------
+Name: Summer Symposium Research
+Size: 0.00 MB
+ID: 1ubkohZGMEeGEX6dKwwGS8NizTTRK2aRVHqBQstBPZ4k
+--------------------
+Name: WQ Time Series Analysis Symposium Application REV3
+Size: 0.00 MB
+ID: 1kPWh2jt0VsGICwVzbHmXRQrifJuwkwzpalKRg79i4qY
+--------------------
+Name: Fall Comparisons
+Size: 0.00 MB
+ID: 13F1_yFy2d0Cq9jntVyITNTlQZr85wNxQHrDe_Lv-p6Y
+--------------------
+Name: Summer Comparisons
+Size: 0.00 MB
+ID: 1xys9YAY3YXvUbdDxUnjvLITkNUJi5vJMcdaTeS4gSyc
+--------------------
+Name: Spring Comparisons
+Size: 0.00 MB
+ID: 1fCKRDtJW7lXU5XbE0p9IMNvadd0VPyIvb_ZW4tbtzPo
+--------------------
+Name: Winter Comparisons
+Size: 0.00 MB
+ID: 1UCVAzyOcyAZUbDd4ytOwAiQvdWOEewb_Jua-zKfYEuk
+--------------------
+Name: WQ Time Series Analysis Symposium Application
+Size: 0.00 MB
+ID: 1oPgmsvs1aDSNLD0bHZ0bx3OHIi2LFkg5ZPIuNjxQc1Y
+--------------------
+Name: Abstract
+Size: 0.00 MB
+ID: 1XBKzw8EXIYLSH5H0Gsw42waZr8UqK-h1IChe4FDIJQ4
+--------------------
+Name: Water Quality Time Series Data Analysis Proposal
+Size: 0.00 MB
+ID: 1J4uomfdI9yM6OTO9Q8M03EgPC1PkG8gBJxpCPSF89CY
+--------------------
+Name: Data Quality Assurance Plan Procedure
+Size: 0.00 MB
+ID: 127S1pNElK8QN7Ey1Kv2z2pUvy-M9GiuqVR6ua79wOng
+--------------------
+Name: ViewArgonaut Connection 7.2.21
+Size: 0.00 MB
+ID: 1vr7a34uMH-LdIE94b2RIORLA-CoPuiU9XbSykv5FULE
+--------------------
+Name: Argonaut-SW Manual
+Size: 0.00 MB
+ID: 1eSyBRvhk0v_-7FarTkUa_cmVUwGbfGQxdchBUydUfoo
+--------------------
+Name: Data Quality Assurance Plan
+Size: 0.00 MB
+ID: 1Nw8gXIQ9lL20TUbe_gvl1ibUzqZvXX1XACMWZWE-Jjs
+--------------------
+Name: FlowTracker Procedure
+Size: 0.00 MB
+ID: 1CTPvfY82e9IYpyq6sMjc-SBehytyOlqtTIQEhBuah98
+--------------------
+Name: Auto-Level Cross-Sectional Procedure
+Size: 0.00 MB
+ID: 1kIEOpue8Ch1_2gnPhGG9IUMSTRmOv7iDDGxXzO2gMCU
+--------------------
+Name: Water Quality Observations
+Size: 0.00 MB
+ID: 1Mnum3u9Do8VM7pZXpQLeKtTQuQdmRumyJXyNUnbpK20
+--------------------
+Name: Plan for Hydraulic Data Collection
+Size: 0.00 MB
+ID: 1ic0BGlG7GQuCBC2LuEQWhAQzjNxaywRH7pB9qBwYdWA
+--------------------
+Name: Sonde Call 6/9/21
+Size: 0.00 MB
+ID: 1AKB9lgfd7PQ32LEzgXDCfvRn0X4CYteHEHswUeQR6X8
+--------------------
+Name: Flow_Tracker_Manual
+Size: 0.00 MB
+ID: 1CD5TAO3iBMl-rqGFv9VJUyD_JqBmQ0u0UsY3Ov8bgGA
+--------------------
+Name: LEWAS Flowrate Analysis
+Size: 0.00 MB
+ID: 1VISUkfkdMAAdUKWEksWLFv9bylHyTjiD6En5CIgPITM
+--------------------
+Name: Argonaut-SW Manual
+Size: 0.00 MB
+ID: 1o1gAOm1pd510ZuoBzVTX4HLt3XPMVQltXr5cG-nPQwE
+--------------------
+Name: Argonaut-SW Manual
+Size: 0.00 MB
+ID: 15v-Mu6a9kiEHqyZ94HcIJ8NzMTit_X3AwmuJ0NU11KQ
+--------------------
+Name: Water Quality Scensor Proposal
+Size: 0.00 MB
+ID: 1gw6DA495XqwUpirof1oCLnciQPivzKKBRTRJcFUZagY
+--------------------
+Name: Power Monitoring Circuit
+Size: 0.00 MB
+ID: 1hmr_ZNJ08F9JUQz6FFn4W_Uo8O_uyxYud5xBJ5V938U
+--------------------
+Name: Sonde Maintenance Diary
+Size: 0.00 MB
+ID: 1DypBX_HwOB8WuMPSfuhXQi36W_PZ7QQc0cQE55VVIP8
+--------------------
+Name: SonTek FlowTracker General Info
+Size: 0.00 MB
+ID: 13ovkrezThPDz3UbsENj4e0wvWxEEu6h_DPTdZ42kGkU
+--------------------
+Name: How To: Using the Sontek FlowTracker
+Size: 0.00 MB
+ID: 1Z8lBBarO_kiXOAijMrUf4HmkSEpP9AVPh7rLvUFRm7M
+--------------------
+Name: Instructions for Retrieving Past Data
+Size: 0.00 MB
+ID: 1FcAQwBZh_Rd0e49D2vZeupMCI5HmQWxYy3hl6gmGYQg
+--------------------
+Name: Sonde Inventory
+Size: 0.00 MB
+ID: 19QktaZS1MrfatVSv7kh86-jNsDpt3m893Zj4HIvPxz4
+--------------------
+Name: Agend_Items_4_Summer
+Size: 0.00 MB
+ID: 1rHTMoY7z1HeX1JOmas11lnG1SUuE19yyCRaKqmK8puk
+--------------------
+Name: CS Student_Job Description_Spring 2021
+Size: 0.00 MB
+ID: 1_OijUQrEkgB2Xoh3dA57pDhsQtDM7o7duKsz8E84Uyc
+--------------------
+Name: Tasks Discussed in Meetings
+Size: 0.00 MB
+ID: 1omQjAo6bvKNVZsJ98U-lNkQ9tO67hsJ6uU7BnU45WAo
+--------------------
+Name: Water Quality Sensors Research
+Size: 0.00 MB
+ID: 1A7LYUW5wCQ7cyIKmYbqu1hwV0-cJwTAVR1rfLOEBD-o
+--------------------
+Name: Hiring New Undergraduate Student
+Size: 0.00 MB
+ID: 17VZLngWHy_eEBnCFy_ETBkynSjceLAq8ULDCkcHnf7c
+--------------------
+Name: Interdisciplinary Research
+Size: 0.00 MB
+ID: 1ZsnptauzurxlgiTIDYiQbUZuWFZxHjF6d2e-5IzQMw0
+--------------------
+Name: Sonde Call 3/5/21
+Size: 0.00 MB
+ID: 1Gx6RW1rdjXnNbTnt2oVrzbKrqqbMK3hy-Ow4znZHg2A
+--------------------
+Name: Sonde Call 2/23/21
+Size: 0.00 MB
+ID: 1uoynp_8kOOpLeTzfNM_rlt8kg7_1RhG_TSDDIjLotvA
+--------------------
+Name: 2/7/2020 Hach Call
+Size: 0.00 MB
+ID: 1EvcC2nEt8VPt5fjImXRifDSFyLiBlrM5ePTPIPa5uA8
+--------------------
+Name: LEWAS Posters in Kelly Hall
+Size: 0.00 MB
+ID: 1Lrzyyd8kRZJ4zsJqs17VUyRDUX1neOeNyQPUfBE6AYs
+--------------------
+Name: Prep for meeting with Daniel
+Size: 0.00 MB
+ID: 1h9plxXUUPTGTIWd81nfuzGhQFc_D_9slXi0JrIF_7YQ
+--------------------
+Name: Minutes- 11.06.2020
+Size: 0.00 MB
+ID: 1dodx9bNSmQPD3-B054BRPjrHWZD66pmgFV5OamXpAQU
+--------------------
+Name: Minutes- 09.28.2020
+Size: 0.00 MB
+ID: 1AXnybPLvQJDUFmNm7P4WByOyQ9w13rwLJzw9krExtDg
+--------------------
+Name: Minutes- 10.05.2020
+Size: 0.00 MB
+ID: 1lTd5ougRxIEpye9eZ0BnMWfAwh10_coY9Dy5Y-2cEHU
+--------------------
+Name: Spring 2020 Review
+Size: 0.00 MB
+ID: 1dx1lmBka2uPm5SX3EG5gWyZ1GqegyMrkbByJEQUvXYY
+--------------------
+Name: Conversation_History_IT-Apr2020
+Size: 0.00 MB
+ID: 1pyt0psQutuuTKuHKerw0EfRADayjKukyoE3fzekfLaY
+--------------------
+Name: Strouble's Creek Vitals
+Size: 0.00 MB
+ID: 1PIkVjVoBJ4-n8-uKsgrOM_rXuw93HsSsSbrm-g2tI9s
+--------------------
+Name: How To: Using the Sontek FlowTracker
+Size: 0.00 MB
+ID: 19fjBi0z6LpJZNLlgOzdvX1aYST25ZvY2FfHsId5RThw
+--------------------
+Name: SonTek FlowTracker General Info
+Size: 0.00 MB
+ID: 16Erld1zGs614WB_8TCFfN-zzNpDC_eRCs0gXWjBMS8I
+--------------------
+Name: VR Project info
+Size: 0.00 MB
+ID: 1jLFjJhWsx9ri2PD3cPHZeimsUL1baxdjsVrm5W_q4TY
+--------------------
+Name: Minutes_4_22_2020
+Size: 0.00 MB
+ID: 1a1J3nh-5TCNI58Jr4nJ-llsBXnugoOMYfF16BHPFH_E
+--------------------
+Name: Minutes_3_2_2020
+Size: 0.00 MB
+ID: 1Zng1gxCVQ8UdYaNJFeNJT0BUdBg6EMGhFFsH4nXRVko
+--------------------
+Name: Minutes_2_24_2020
+Size: 0.00 MB
+ID: 1K7Br8yinYuJTc16O4wyZo0LRa9w4UVwOHz18zbbxGrc
+--------------------
+Name: Minutes_2_17_2020
+Size: 0.00 MB
+ID: 11hlJr1MO1uJjezqEWpoMMV_oeFtGfA1FIlVvvs_Fq70
+--------------------
+Name: Minutes_2_10_2020
+Size: 0.01 MB
+ID: 1_gBM6hX-MnEpOFVff8-688eVJvxW1rEjRnhCgv7n_Us
+--------------------
+Name: CT_Minutes_2-11
+Size: 0.00 MB
+ID: 148Ak21GRAldXuj9nVZuUmvYGuYzbNh0ssFRRfbpX3fk
+--------------------
+Name: Minutes_2.3.2020
+Size: 0.00 MB
+ID: 1uqbVeABgU2beHFEymHT-r50luEE6Z6hvADYa6pwEhK8
+--------------------
+Name:  Sonde Inventory & Naming Scheme
+Size: 0.00 MB
+ID: 16Qm5TG3zR6XzvxgwEmFGys2GIgV-O0E-iD1bYOEz_HE
+--------------------
+Name: Calibration Google Form Link
+Size: 0.00 MB
+ID: 1jd19x2bpAUHpPd7SeB7ifj7ztlbpo3f1Az8aa_Pz-mE
+--------------------
+Name: CT_Minutes_2-4-2020
+Size: 0.00 MB
+ID: 1ET75CthsYqODKpz67vVYlcxtzXxcilhwYSHoa7042BQ
+--------------------
+Name: sontek+flowtracker+manual
+Size: 0.00 MB
+ID: 15Gpm1TUQ5mOKB4N8XGkNU4sj_Qz2mMbLmDaH3RZzs0c
+--------------------
+Name: CT_Minutes_1-28-2020
+Size: 0.00 MB
+ID: 1sV-DZt-u0e9KHobc65CY-IN1ZhnmQJLFP8Rtx8elKBw
+--------------------
+Name: Minutes_1_27_2020
+Size: 0.00 MB
+ID: 1luz271U08ILXikypr8xlYnjrgYWL98Hps1BeFOxZW90
+--------------------
+Name: Summary of TMDL Implementation Plan
+Size: 0.00 MB
+ID: 1w60gcxNUwoO0z3BGhiWelbH0tFrRbxsA2kwtgHwLGnU
+--------------------
+Name: Summary of VSCI
+Size: 0.00 MB
+ID: 1za-s89IqsotopdDqW9JuLZhOmulOhkCxactDABZN82I
+--------------------
+Name: Ben's Brainstorm
+Size: 0.00 MB
+ID: 1C4ocPmuB4X3URqiYi-Ruw4YXGZKg14jg0OjE5Eo_icA
+--------------------
+Name: Fixing the Conduit
+Size: 0.00 MB
+ID: 1c3k36FNd-jfl9_gZLqDEAioCKFuUzJwSkksJiQnK1bE
+--------------------
+Name: Illicit discharge event
+Size: 0.00 MB
+ID: 1Dapd_OwYVJNyuVkk6jHBvucmvlZhshi_dC3345sDjlk
+--------------------
+Name: QA/QC procedures
+Size: 0.00 MB
+ID: 1iqCY41tIo44xkhhRqYU8IV9BQ8njx1MVwD1WL6SBpwc
+--------------------
+Name: Minutes_12_04_2019
+Size: 0.00 MB
+ID: 1WMuZV4hzSlZ5YiOSCsKy-ST59axmrBxIrtWquQSXSLc
+--------------------
+Name: Minutes_11_20_2019
+Size: 0.00 MB
+ID: 1VJ1uDE2mTSMhCU-VKphlx0EqkhSE3nWLnTMuuYA-IE0
+--------------------
+Name: How to Open the Circuit
+Size: 0.00 MB
+ID: 1caz8TgD8rkBzMENpJQVYSxJCgMJd0Kz_mjypB8Zwats
+--------------------
+Name: READ ME
+Size: 0.00 MB
+ID: 1PM0WonYFwGS__6_rrLlOeTo9ItzoNLHB7fPi8Lf5bX4
+--------------------
+Name: Poster Event Abstract
+Size: 0.00 MB
+ID: 1kO9MMoN7cMjfUz2k1ZyYo7vYgvxhIakgythFNlgqxEo
+--------------------
+Name: Power Monitor Circuit
+Size: 0.00 MB
+ID: 1ZaV1rGqVXvG9-HURhhE54azn4V5B5sUgBMKBhYxtapQ
+--------------------
+Name: Honeywell current sensor
+Size: 0.00 MB
+ID: 18vLvmXIYDvOsgmoHJZXOfdhdKRjANIA03GBQ-wK0x5Q
+--------------------
+Name: Minutes_11_13_2019
+Size: 0.00 MB
+ID: 1a2OfUOsNeYFOs_vi09WG7cSfLZSIVhz2gM9CMdMY1f4
+--------------------
+Name: Minutes_11_6_2019
+Size: 0.00 MB
+ID: 1wxbGxiNVu98xVe3B-CJ5xoupEJaqkLCF2IfqlO2yJHk
+--------------------
+Name: Minutes_10_30_2019
+Size: 0.00 MB
+ID: 1tWhucpM2emf87hGPVTCz_rFF_7HshGZVFpn3L5Cc7Oo
+--------------------
+Name: Typical Values for Sonde Calibration Research
+Size: 0.00 MB
+ID: 1sBiEtvnf31rJMtidIOehOzZLeXSka0kzidebkO574IQ
+--------------------
+Name: ViewArgonaut
+Size: 0.00 MB
+ID: 1HQo-fboZBu8_SiIa4yWC4czAPzXV-2spCkqGms0DY4A
+--------------------
+Name: ViewArgonaut
+Size: 0.00 MB
+ID: 1o74POUsqe9c6AqZ3KVscjf8xSQW5eiXY7Nx8SW2C4vk
+--------------------
+Name: Minutes_10_23_2019
+Size: 0.00 MB
+ID: 1F7C8vWYO9x-u7d5EenO_RKaFQijs8jJnUFuYOrbhkxI
+--------------------
+Name: Stormwater Day 2017
+Size: 0.00 MB
+ID: 10aDWPTqG7doEOcXmvX6Mtm8BwkreJf9KOAVHAgeWgds
+--------------------
+Name: things to talk about
+Size: 0.00 MB
+ID: 1w9LrCZ9NaYuwaGE6kMb_4cs2oRKUjja8SXbx_ZkW5QI
+--------------------
+Name: Sonde Saga
+Size: 0.00 MB
+ID: 1pFHe0z4_SCf_mR9P72N6-DWithGJNQTBccE8FuLUMTg
+--------------------
+Name: Sonde Saga Issue Spring 2019
+Size: 0.00 MB
+ID: 134Hl98LO-6vGf8OXJROPwFrXISG7PtoWTO3V6-kP3B0
+--------------------
+Name: Minutes_10_09_2019
+Size: 0.00 MB
+ID: 1ZhIl2Zi9Lue0rCgz4o6Qk3AoDt9QWgYQ88RtFRbL6LE
+--------------------
+Name: Minutes_09_25_2019
+Size: 0.00 MB
+ID: 17dEFoeIWH4LoHIR7zyUuE8P9PNFE_PM24FrJ5O8sb-4
+--------------------
+Name: Application
+Size: 0.00 MB
+ID: 1MCfO0H_fSGc2y7bQopU8pbowLb9Bw32mJS7ok8huNBw
+--------------------
+Name: 2018 approval
+Size: 0.00 MB
+ID: 1eLQbDzEp6K6LHxRUwoUoiaTd_WU-xgqSpHmiNVku_qU
+--------------------
+Name: 3000# NTU; Turbidity sensor broken
+Size: 0.00 MB
+ID: 1_bF_J27hTvDEI03cagPQcCI7Sd0dbLVSTKh0C-HhRwc
+--------------------
+Name: Copy of Sonde Maintenance Diary
+Size: 0.00 MB
+ID: 1xsjsy9oM-PqA8im5MTIJoIDJ7FWuPmjkjWDds8ukHoE
+--------------------
+Name: illicit discharge event 9/12/19
+Size: 0.00 MB
+ID: 1mWAopiXEB8E-NUOdlbN7-d8W6FsDRy6vcZfaaUjO94U
+--------------------
+Name: Minutes_09_18_2019
+Size: 0.00 MB
+ID: 1jsxgccxSyrJ1H_NdUbE118Z9mIF7quvevIkP8ZQ3BUk
+--------------------
+Name: Minutes_09_11_2019
+Size: 0.00 MB
+ID: 1RLptUz9YK3eHNnAluf0rzo1ww-Y0Y1iH3tcsEBqgMC0
+--------------------
+Name: 9/5/19 meeting
+Size: 0.00 MB
+ID: 1qJqMa7AZt574TDFEp94FAlxzbMeZJc4yq6uBk4ajGZQ
+--------------------
+Name: RET/REU Collaboration
+Size: 0.00 MB
+ID: 174vQb-rUJoqG555H9GPh83rPqlclh_NVvtBR2dmMRTA
+--------------------
+Name: General Management of LEWAS Machines
+Size: 0.00 MB
+ID: 1UbomYnlses-bO7B6nNC-5ZgSOamuAG6NL5WuvYxtunY
+--------------------
+Name: For Civil Students Summer 2019
+Size: 0.00 MB
+ID: 1aeCeLSscWFPOTVWd6S5Yq8JMI0uEUb6hw085oNmYyP4
+--------------------
+Name: things to order
+Size: 0.00 MB
+ID: 1IR7qVRkTTEDQ9c_KYxKJqTGRpd3W4tjRcoI8S8T415U
+--------------------
+Name: Apache https development history
+Size: 0.00 MB
+ID: 1Jv3oKpahJSwYu-Gg8WmKLPT99kPs_wCywatx-7kOXVw
+--------------------
+Name: Summary Report
+Size: 0.00 MB
+ID: 1AaY-m6_mks01pxt0EXOqJ6HgIa8jUinQ8aH6JcsnxY0
+--------------------
+Name: Flow Rate Exploration
+Size: 0.00 MB
+ID: 14ma3PdbDsyrOZ_AxjKffZqixlFjxBDmHrTCtzvnm9Pc
+--------------------
+Name: 3/5/19 Hach Call
+Size: 0.00 MB
+ID: 1DR1vZmVjuSTRoDKgaTBSOb9YtxR6_K90VVfcrKhuJUM
+--------------------
+Name: Registration Materials 
+Size: 0.00 MB
+ID: 138FlEANVy5fRSR7eqIT81hae1hj7tnoUe7kGPL73CUU
+--------------------
+Name: fuzzy gray dell screen
+Size: 0.00 MB
+ID: 10KpEuzfgiKH_paDVUqagEX3EPra4yUNOKlNWfyxEXgs
+--------------------
+Name: H3LT_manual
+Size: 0.00 MB
+ID: 1XHO5vgr3whQYocex3Krn11rzlXI9tvfe61AXNtYH6Ss
+--------------------
+Name: Hydrolab_MS5_Manual
+Size: 0.00 MB
+ID: 12vE5Ac5mWQ_rtvieyGieSY7EmhX4Fi9iY1X4S7-PxmE
+--------------------
+Name: Minutes_02_11_19
+Size: 0.00 MB
+ID: 1_g9VEPIiQVHH15-xm_AGa1RQYHjjeUScmYBSL8GVCZk
+--------------------
+Name: ELS_Edits_RET_WaterECubeG_Flyer2019
+Size: 0.00 MB
+ID: 13nHPpBZZeU0gauNePICPcDh1ZGi9IigpeKcTl0tNYiI
+--------------------
+Name: MTRecruitmentEmail
+Size: 0.00 MB
+ID: 1kACQ1EQFrx5XiV3LQfJpzbiEl5lXOO8t2Pd8qdVEjtw
+--------------------
+Name: RET_WaterECubeG_Flyer2019
+Size: 0.00 MB
+ID: 1C_JpASApiO5tQ1wHPsVyyyAuAM9hgO3jme1kqnE8TRI
+--------------------
+Name: MTRecruitmentEmail
+Size: 0.00 MB
+ID: 1AtoQYVO_dPBiH1vT4Kw_7-liKgM-Yyfl_7a2Oqfp7d8
+--------------------
+Name: RET_Proposal_Nov02_final.PDF
+Size: 0.00 MB
+ID: 1qV8OZyY-j1OtYSEkVwfYTtr2wTxyCqYMeFvxWV1Ux1w
+--------------------
+Name: 10/12 and 10/24 Notes for Chuck
+Size: 0.00 MB
+ID: 1Z9QI4Q8nIejpl3DbISdEi_Yg1lUeGJME48c6eyfv_RA
+--------------------
+Name: Minutes_11_5_18
+Size: 0.00 MB
+ID: 1nrt3H-54lhab480I70JtBgUKRjdTq1e2gAF7w5CdT7Y
+--------------------
+Name: Minutes_10_29_18
+Size: 0.00 MB
+ID: 1brXrnhK1fgt1b725gsWP8V-4RkdXl8ThOuuP8wzfLH4
+--------------------
+Name: Annual Report
+Size: 0.00 MB
+ID: 192bA53B0Ar1IiPtDB8JGsrBMP1HTU0OPOYI7re1qGM8
+--------------------
+Name: 10/5 Notes
+Size: 0.00 MB
+ID: 1FqpdrQWfEoGc04tS2zDEy3cr4LmPpP9OAzNFJZq4Lhs
+--------------------
+Name: 10/8/18 notes
+Size: 0.00 MB
+ID: 1PirJeW0LS1BoZaWarVmh06AssFxlvWGZ4vE1Lruj1OA
+--------------------
+Name: Instructions for Retrieving Past Data
+Size: 0.00 MB
+ID: 1ZUmrv_aMlFQQqke1kU4FmtF5hBpXtpvDSb7BoMO4Gyo
+--------------------
+Name: Notes 9/27/18 
+Size: 0.00 MB
+ID: 114Hp-O8EZm4s8bFLTOLbMOlmVpJUWeeCsDgT81XEHvA
+--------------------
+Name: 2019 NSF REU Flyer
+Size: 0.00 MB
+ID: 1rCg5Odmdc90Sqfzy88yA9Nl8yloK8L8gGW7bK3CWdeo
+--------------------
+Name: ReadMe
+Size: 0.00 MB
+ID: 18KC_XD68EIGZCvSsOW6iGeKjpHJK4JVsJCdS1CTTW1s
+--------------------
+Name: documenting the sonde failures
+Size: 0.00 MB
+ID: 1k36XiE18ikVmNIfFs-lTq_6qRdGUE85drSc2RzS2aIU
+--------------------
+Name: Website Edits
+Size: 0.00 MB
+ID: 1-hHVzWrfxt3nSupB3Enq5NKMkaqTOnscjkDDRzb8m-I
+--------------------
+Name: NSF REU- Closing Ceremony
+Size: 0.00 MB
+ID: 1mQfHHZxOKVMe2eI2019ie8EeBeMfOblTBsBnuYphe24
+--------------------
+Name: REU Orientation
+Size: 0.00 MB
+ID: 192IizJ2KaMdQy2bfYKRXaY_67h8cqR6svzxrEjbH6GU
+--------------------
+Name: NSF REU- Closing Ceremony
+Size: 0.00 MB
+ID: 10Kgb_xCZ_olfk99atuLRomBryJUnVvcHKzevwTRNyVs
+--------------------
+Name: REU Professional Development_Updated
+Size: 0.00 MB
+ID: 1DFZ4s5xtU2_6A945C-XRk6ExWlapAltHhtM6cduYKJg
+--------------------
+Name: LEWAS: Systems Work & Knowledge Transfer
+Size: 0.00 MB
+ID: 1Rf5kNMMxB7B2jF-GZnZIhlLUwSRkfb5XhET2vN9HIVQ
+--------------------
+Name: Transforming LEWAS
+Size: 0.00 MB
+ID: 1C0FkKsChaMNg4hqJNSAOjVYL7GjkmjCOp7EDvANJ0y8
+--------------------
+Name: LEWAS Lab Primer
+Size: 0.00 MB
+ID: 1I4tWvGns1HeKUoag1ToWf3mbhqq7HLBoDeZunfJF8kM
+--------------------
+Name: Sonde Calibration Instructions
+Size: 0.00 MB
+ID: 1oCwMvWXEkJLFJZ3ZyI7nVmFNj-1Tb3eztCFDZq3GpG8
+--------------------
+Name: DJI_0002 (1)
+Size: 0.00 MB
+ID: 1nr8DuLD4wCA6iCpKbDFt2T3NQM8r8EiF_CmaWe8Gfnk
+--------------------
+Name: KAUST Faculty-Student Assignment
+Size: 0.00 MB
+ID: 1AtOAoUSBAYncRjsSL5Tq6YW9Uu_TCIi63EDPTp3tv-U
+--------------------
+Name: RET Closing Agenda
+Size: 0.00 MB
+ID: 1mVhtRVWJnB5R1h72LoVxaTxwBgioWBL4CZ6gGTIhKN0
+--------------------
+Name: Outreach Event Plan
+Size: 0.00 MB
+ID: 1KPUaY9ebX0EYFR9M_ucm7Kw_eO32e5al1prvZbICgIs
+--------------------
+Name: Science Fair Info Sheets.docx
+Size: 0.00 MB
+ID: 1_34ebQI1Z8qcF3nhfMpTr60i8rObwcYnhHVLr689QE8
+--------------------
+Name: Event Documentation
+Size: 0.00 MB
+ID: 1fxjT22xSc6ItFnZUXkIM4AlDoIH-CZHV7grj7pxh_qQ
+--------------------
+Name: Copy of LEWAS Brochure Content
+Size: 0.00 MB
+ID: 1LftlVe7RAD-20QYkEEgJIw5FKSFxixnxKPZGyfVJaJg
+--------------------
+Name: Copy of Watershed Delineation Activity.docx
+Size: 0.00 MB
+ID: 1r2OxxCu-YPsridhtCbrEYUzeJFBO94UxlBAV4XEMInU
+--------------------
+Name: Copy of Copy of Watershed Delineation Activity.docx
+Size: 0.00 MB
+ID: 1HhRjHc1GZHieR_ehefT2GE_J7tWokKZVfVkKSeCAeo4
+--------------------
+Name: Copy of LEWAS Flowrate Activity.docx
+Size: 0.00 MB
+ID: 1OLBBblYbXd4GaQt0xiDiwRsbDe9xtfyqqW06GTSu4xs
+--------------------
+Name: Copy of Copy of LEWAS Flowrate Activity.docx
+Size: 0.00 MB
+ID: 1ZSvLZgoc_X9wCxg9YlygyO2jpFWRVJXyG77-HNh-RZ0
+--------------------
+Name: Copy of Hydrograph Activity.docx
+Size: 0.00 MB
+ID: 11O93R2XJDnCqztQnuSAx0B_hGvVZJTvrBYnyrVeBBUU
+--------------------
+Name: Copy of History & Regulations
+Size: 0.00 MB
+ID: 18c0wA-_kTmI4XS3Cnk9yCV7Jdjc62cR3ouFwfI3ptKE
+--------------------
+Name: Copy of Nutrients Activity.docx
+Size: 0.00 MB
+ID: 13CvpA216TuljsWh76Emjahnlr8vP7E49nsyDPmdAd14
+--------------------
+Name: Copy of MS5 Sonde Caibration.docx
+Size: 0.00 MB
+ID: 1ETQNBGR65_ur-BdHL9MbSzar5JtSdolfhoJk_A-BzE0
+--------------------
+Name: Copy of TSS Estimation.docx
+Size: 0.00 MB
+ID: 1osMRvF1-GUDurn56xPL1odJesulexZXJHtFSiwAlCR8
+--------------------
+Name: Copy of TSS Laboratory Test
+Size: 0.00 MB
+ID: 1RGAiLe1QJUouuIQS7MkcQYFDz2FTCjaEV_6vT0i9N2g
+--------------------
+Name: Copy of ORI Activity
+Size: 0.00 MB
+ID: 1Gw3RFjPsVJl0dNOcvGiyuyXOUtKTqxfLrxf-orWUll4
+--------------------
+Name: Copy of VSCI Activity
+Size: 0.00 MB
+ID: 1wUGiKNahnuzyebGoapsQHfmUq5G-L0hHYMRdAnp58wA
+--------------------
+Name: Copy of Rachelle Syllabus
+Size: 0.00 MB
+ID: 1Nqx8Mi1igK-LZMAVVah4qdsSLI67CVfsIY4iPW4B0kQ
+--------------------
+Name: Copy of RETOutline v4-0618.docx
+Size: 0.00 MB
+ID: 116HxPE_zPv7vlQZyc50XHo4XmQ-JlGLeyKEzkhFHgec
+--------------------
+Name: Copy of Project.docx
+Size: 0.00 MB
+ID: 1eMP_yl1L3B0v4JiZSCsgHsSWPm2Tp1vHEH6_cyul8Do
+--------------------
+Name: Copy of Helpful Links
+Size: 0.00 MB
+ID: 1He7PcGoj4PwFyzPnD0ir6J60XAs__bkl3sU38B0RC6k
+--------------------
+Name: Copy of Final Picnic Attendees
+Size: 0.00 MB
+ID: 1gL4gR4SIcObqXxmCFQj6_XSGLc07tuBxD63bQAGui1c
+--------------------
+Name: Copy of LEWAS+Order+Form_SCHEV_Aug_2014_3.docx
+Size: 0.00 MB
+ID: 1vb48avPXxjpvk9xqgJgNs0w9f_F-TCJAsGLlIk2viIA
+--------------------
+Name: Copy of ICTAS_Order_Form_filled_Feb2015.pdf
+Size: 0.00 MB
+ID: 1tYDK1h7odAPCCHU7UQq4F5_4RONYKGAT0HdvFVHk3nw
+--------------------
+Name: Copy of Power Monitoring Circuit
+Size: 0.00 MB
+ID: 1oxlhKtYQYPxGJG3CYTK9tmIoDThQVXgOI6-48IYXRII
+--------------------
+Name: Copy of Traffic Camera Operations (Stardot XL)
+Size: 0.00 MB
+ID: 1YSZgT9PO4v0UvDJRojSlTEEh_88kDRxvdy_zbqXnNk8
+--------------------
+Name: 3_21/4_3/4_4_Comparison
+Size: 0.00 MB
+ID: 1ijw5jXGqQTS9iKgSUWugmR8Ljt-1j_aIsxKCMwbxHJU
+--------------------
+Name: Copy of LEWAS Lab: Middle School Girls
+Size: 0.00 MB
+ID: 1IJkyLXB4jstjcvHVzvBa3JFahJdyalxu-fDAO_yvTqc
+--------------------
+Name: Copy of Voice Script
+Size: 0.00 MB
+ID: 1oWoAxEhq5qRqP_zdPIDR7LPjRMHi1FuIxBzN17qbzp8
+--------------------
+Name: Copy of Application - Science Fair.docx
+Size: 0.00 MB
+ID: 1oVxcCr9mWsV86kaKOcnOgzlhEWAwAVDIthdVdgvaoRI
+--------------------
+Name: Copy of Science Fair Debrief
+Size: 0.00 MB
+ID: 1g2J6C5ezo-F7PK3fLoMptArjfXjU0ry51gbZFZzXdew
+--------------------
+Name: Copy of Paretti MATLAB Analysis Activity Instructions
+Size: 0.00 MB
+ID: 1nNM6nKntd-TEBFc7OC3_pI4KXE93nmBVZ2Ef7tLo7wo
+--------------------
+Name: Copy of Belle Heth Outreach Documentation
+Size: 0.00 MB
+ID: 1EQPcGD5RjIk_3lSBQPdn-6KW6ODqYNzG_BJtvdgIX1Q
+--------------------
+Name: Civil Transition Plan
+Size: 0.00 MB
+ID: 1iyz_2eavZfevZ9RdMx5ndRHg3AmRDW5zi4pt0KUep1c
+--------------------
+Name: Recent Illicit Discharge Events
+Size: 0.00 MB
+ID: 1e-beTR2NYd0nbL6B1aq6PC1I4PS-Sj00gM5Ge0jfhIg
+--------------------
+Name: Thomas' Advice
+Size: 0.00 MB
+ID: 1of07AAeGVA_kofQJ8OaeYQ10HbUogv1LEN3GAr5gFY0
+--------------------
+Name: Arganaut Basics/Beam Check Procedure
+Size: 0.00 MB
+ID: 1PTbWlUu-FzlWG910yVyRmpkdD4VGj2RjsO3rNgPPUt4
+--------------------
+Name: RET additions
+Size: 0.00 MB
+ID: 1CXrOl_2hqwiotsmkF5cCSf9ohUDxPMdhFq0s9eUjhOU
+--------------------
+Name: Cross-Section Analysis Plan 
+Size: 0.00 MB
+ID: 1bJKcYrp86XGBtDB7PDvu9xGQqXEH67MCyYWP2QoXuOQ
+--------------------
+Name: LEWAS RET Interview Responses
+Size: 0.00 MB
+ID: 18McS8Q9kk1jDDfH1W-4W6inD4xHsLzrAMk3yqZab6Xg
+--------------------
+Name: Follow Up Doc
+Size: 0.00 MB
+ID: 1yv3kudQYImTwXq7E3lgxqeK4biM3YH99Nn-JJH8WBMg
+--------------------
+Name: Field Notes
+Size: 0.00 MB
+ID: 19p3OpumgPy26Tjw7iqEiOsItONNa_WoUG0Nd23uEvrA
+--------------------
+Name: Belle Heth Outreach Documentation
+Size: 0.00 MB
+ID: 1bGHH9XeGJDOD4IyslgccOIIM9a37OCAhUvFk9mRm-ys
+--------------------
+Name: Outreach Documentation
+Size: 0.00 MB
+ID: 15qQQbWGKws40K5jKv7-2NKVz-a4aQFA5mCuhleGOlXc
+--------------------
+Name: Blacksburg Science Festival Plan 2017
+Size: 0.00 MB
+ID: 1m-F7FcBPpOSOvzGeObh9ShEBF6toKu8Halyglnl_luI
+--------------------
+Name: LEWAS RET w/ LOU Interview Protocol
+Size: 0.00 MB
+ID: 1XZuPi3gh1ytWfi8yCriuOHa73FJw2054Ln7nKeeAcNA
+--------------------
+Name: Blacksburg Science Festival Plan 2017
+Size: 0.00 MB
+ID: 12OK6WiqVyF0N5FypK4zGhzQAlxncTHXtSneUb1y3L1Q
+--------------------
+Name: LEWAS VoiceOvers
+Size: 0.00 MB
+ID: 1iATp8oy8IGNVTtcY-Ph0MeGM5StO86hWqYNNhGDX5AU
+--------------------
+Name: VR ideas
+Size: 0.00 MB
+ID: 198DypfB23odwFr-WtxC3dwX6hjH_qYbk16Kp-5kn3HE
+--------------------
+Name: MATLAB Analysis Activity Instructions
+Size: 0.00 MB
+ID: 1xb2QCDzn_2-_DFRSToyRYJlFp253fvhGYKOX9dpxHdI
+--------------------
+Name: ENGE 1414 Data Sheet
+Size: 0.00 MB
+ID: 1NCexC8dgUFTNx3zOr1Yn01jDQh3SnaxXRzVtuW07zXo
+--------------------
+Name: Bringing Research to Practice JDS
+Size: 0.00 MB
+ID: 1uZ0MpxXSEhTg5hZGggLkd1EtTA7iWJC0ZDNCy8xVpTI
+--------------------
+Name: NSF EEC Conference Proposal
+Size: 0.00 MB
+ID: 1OGvwRQ05dXfdKQU2cA3QZbbVhHLeIGllOyZ1Ve584X4
+--------------------
+Name: Planning of NSF EEC Conference Session Proposal
+Size: 0.00 MB
+ID: 1ingtFGRH9k3jbtQEtmdrjU1KTC2u6QxPXHgidfxe4F8
+--------------------
+Name: LEWAS Computer List
+Size: 0.00 MB
+ID: 1H-O7Hc0pxihLJvyOY8S0lf5hsY3mCF5dVbNQaHiLkog
+--------------------
+Name: Recruitment Posting
+Size: 0.00 MB
+ID: 1sG3y7RGJ9g77ko1yaXSUPyMhWuupea-gM3lY5By2Pcg
+--------------------
+Name: LEWAS Fall 2016 Report
+Size: 0.00 MB
+ID: 1S6o9RpZNuy6FrlMjYqkgRlkCUzR0u2Mvi1unsdYOmWo
+--------------------
+Name: BSE 3324 Presentation
+Size: 0.00 MB
+ID: 1FUN18P8vIhXoVIIw4T5dtUCL4RPEvS8GczwzbZp7_bQ
+--------------------
+Name: ENGE 1215 Course/Activity Outline
+Size: 0.00 MB
+ID: 1FTwcIE4YLaGtFebbDiMkpmhb7NeBgkhaEikYqiYJgZM
+--------------------
+Name: LEWAS Projects - Summer 2016 
+Size: 0.00 MB
+ID: 1t9-Bl6juZKiZdkLODaYwMc5FxPlg2y0JPfsxMhejfzo
+--------------------
+Name: LEWAS DNS Additions Proposal
+Size: 0.00 MB
+ID: 1WooCwSSxigOoGTUJY-7zpw6bOQ0dnmqag90zXAiCccY
+--------------------
+Name: Dr. Xia Raspberry Pi Video/Activity
+Size: 0.00 MB
+ID: 1JDFO-9b32D_DcvjTnOf4ROZK_2Eeol7evcAihGa8gMI
+--------------------
+Name: 3/21/2016 Case Study
+Size: 0.00 MB
+ID: 1aQA3obukkZa_zLpq2TtDzldFj67Ccw10EWEmayox5FE
+--------------------
+Name: LEWAS Interface Industrial Design Prompts
+Size: 0.00 MB
+ID: 1eqPdGUhYK52zgdXkjMyIGyXPDZokY-6sPM_uT4SY6z0
+--------------------

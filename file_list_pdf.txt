@@ -1,0 +1,2336 @@
+Total PDF files found: 583
+Total size of PDF files: 1270.92 MB
+
+List of PDF files:
+Name: Example_AJUR_Vol_20_Issue_4_March_2024_p3.pdf
+Size: 0.75 MB
+ID: 1ILGJRjhMShdL7Kywx0HYf_i2iXkrvHog
+--------------------
+Name: Global_Data_Logger_Help_Documentation_Interface_Software_User_Guide.pdf
+Size: 0.42 MB
+ID: 13IZXhHxLQs4Jeu6lfMsVtgEsCqRL-gry
+--------------------
+Name: Global_Data_Logger_Help_Documentation_Getting_Connected.pdf
+Size: 0.45 MB
+ID: 13HgMOizBL5HQUHi2eaFPA5ijFA530iqJ
+--------------------
+Name: Global_Data_Logger_Help_Documentation_Appendices.pdf
+Size: 0.28 MB
+ID: 13Groetfd968Ef2gLgOeR9PMXws4Evvcc
+--------------------
+Name: Global_Data_Logger_Help_Documentation_Welcome.pdf
+Size: 0.27 MB
+ID: 13EvZHUTRVIqNBjvIm9zFkUW5GTOjGm3z
+--------------------
+Name: Lewas Systems Document.pdf
+Size: 0.62 MB
+ID: 1FmNoSrSmWCxJ1gbKfe38x2j0viSZaJWt
+--------------------
+Name: Lewas Systems Document.pdf
+Size: 0.62 MB
+ID: 1LJfhMQAMdWWYBlv1-NfKcYimr7qo4VxN
+--------------------
+Name: Tristan McMahon Resume 2024.pdf
+Size: 0.08 MB
+ID: 1FqrTonBp2YnlPW7jjYleloaPcD4pAD28
+--------------------
+Name: chhetri Kushal Resume.pdf
+Size: 0.12 MB
+ID: 1G0PvBxfabR4r3dmve_P1_Q5ncuhI2SEq
+--------------------
+Name: Delgoshaei - 2012 - Design and Implementation of a Real-Time Environmental Monitoring Lab with Applications in Sustainability Education.pdf
+Size: 3.80 MB
+ID: 14rpMPJ13Lrm0LnEb44nT5STdTjhpeOFp
+--------------------
+Name: VIRGINIA TECH - WO-01286898 (1).pdf
+Size: 2.42 MB
+ID: 16Kep_c_pzaYYq8WAb1M8eGZMzDOWUiMD
+--------------------
+Name: TS-01286898 - Virginia Tech.pdf
+Size: 0.43 MB
+ID: 16LVub7Z0imS7_yofCjRSZnXsiwbM5LY1
+--------------------
+Name: chapter4.pdf
+Size: 5.05 MB
+ID: 1hDUcv9HIXEdL4iDcWfYfvbBWIT628zN0
+--------------------
+Name: chapter3.pdf
+Size: 2.46 MB
+ID: 1hJ5ghrbO--34QEC7GSDDouwHunxRD2W5
+--------------------
+Name: chapter2.pdf
+Size: 1.61 MB
+ID: 1hNTQTDKYNLEFyVTmS62h6woA8hU_G0jO
+--------------------
+Name: chapter1.pdf
+Size: 0.82 MB
+ID: 1hT4gB1p-l8GkQowpFaBmnEEWQjVGP6OX
+--------------------
+Name: chapter4.pdf
+Size: 0.48 MB
+ID: 1gtCbsaFlVJYt2XK8zSRirp6zhDhYBMT0
+--------------------
+Name: chapter3.pdf
+Size: 1.02 MB
+ID: 1gyAbjny1TdBWCzZtK0BSO1A9GbtQ_-cS
+--------------------
+Name: chapter2.pdf
+Size: 1.97 MB
+ID: 1h2Ar7o3vJTjyQHdeJ4j8R__QjhQRJ6pB
+--------------------
+Name: chapter1 (1).pdf
+Size: 0.31 MB
+ID: 1h2QjcelHyrWzeqK-L-TUWkAViQaJpulm
+--------------------
+Name: chapter5.pdf
+Size: 0.26 MB
+ID: 1h5UPtCj8F3g9hxGnCikRxcHL9P0UJs7S
+--------------------
+Name: chapter4.pdf
+Size: 0.32 MB
+ID: 1h5dZSKQ7p-8cmkA5T6y_C-abChin13BG
+--------------------
+Name: chapter3.pdf
+Size: 0.54 MB
+ID: 1h8Ro6BaQKKU9YCLI7a53uUni2t6pBtKv
+--------------------
+Name: chapter2.pdf
+Size: 0.70 MB
+ID: 1hC1vMjLXDafyJUyn6EgWTPapXaIi-hq8
+--------------------
+Name: chapter1.pdf
+Size: 0.77 MB
+ID: 1hCukvHeJgV5hV_4JkO0a3DEAq3053B6t
+--------------------
+Name: chapter4.pdf
+Size: 1.60 MB
+ID: 11C-AUZKBqhwK9MVmHU27DtaDQ9G0ebiA
+--------------------
+Name: chapter3.pdf
+Size: 1.80 MB
+ID: 11AzF_obMQglawIr70_w32MfRwvNNO7Ee
+--------------------
+Name: chapter2.pdf
+Size: 0.69 MB
+ID: 11AxBvbcQFPcRUYrH1tEQ0MKfYs1RFLtv
+--------------------
+Name: chapter1.pdf
+Size: 1.50 MB
+ID: 119U30HSl-hxPY33YRGkWXOXD3SF6NJxZ
+--------------------
+Name: chapter5.pdf
+Size: 1.28 MB
+ID: 110eKeyDBPjsKf2yPwFzX4pgkBXPeZZIt
+--------------------
+Name: chapter4.pdf
+Size: 1.13 MB
+ID: 10vt_KE0QIdF8ePpqhqLAoPMNJc3nJmf3
+--------------------
+Name: chapter3.pdf
+Size: 0.58 MB
+ID: 10tCNir6ru26a0VTSbgm5PyfM1ZXnIeKG
+--------------------
+Name: chapter2.pdf
+Size: 0.36 MB
+ID: 10syNiiyJKUuf2SX7LEk3IQ8sDj1IhusR
+--------------------
+Name: chapter1.pdf
+Size: 0.58 MB
+ID: 10mG0SRA5yIa4zIh5ghhbNXHH_VI3VLgh
+--------------------
+Name: chapter4.pdf
+Size: 5.05 MB
+ID: 10gxsjZNr_fnKkdwGVTqUkgi5_3gwv0_C
+--------------------
+Name: chapter3.pdf
+Size: 2.46 MB
+ID: 10cPX5D6VhnSbdvbahzdBzPUX4_IXyfS_
+--------------------
+Name: chapter2.pdf
+Size: 1.61 MB
+ID: 10_wclyn_i-cYxwZ3kGyoj1kSAHD6ZcFp
+--------------------
+Name: chapter1.pdf
+Size: 0.82 MB
+ID: 10Z5syEOH-cKowupZVN6AT1Kk5FYVaagX
+--------------------
+Name: Managing Sensor Data Uncertainty - a data.pdf
+Size: 1.02 MB
+ID: 1-HBK8t8ebgB5GsHq_y-RxzpMoBqwgjnz
+--------------------
+Name: Teh-2020-Sensor-data-quality-a-systematic-re.pdf
+Size: 2.83 MB
+ID: 1-8eoYhg3TuZOa97xS0M75S8sowL2G72R
+--------------------
+Name: Pipino-2002-Data-quality-assessment.pdf
+Size: 1.00 MB
+ID: 1-7QDgeAxrmbDx2KZq9SRv5SQwcqe90bi
+--------------------
+Name: Wang-Data-quality-requirements-analysis-.pdf
+Size: 0.71 MB
+ID: 1B0IiTuVkWNtwGcBPsfDjV4O8HIu4Dxqp
+--------------------
+Name: Shankaranarayanan-2006-Supporting-data-quality-management-.pdf
+Size: 0.39 MB
+ID: 1zvZwyPTGJxE9uiFbT9UdTSXj2V8vdDIE
+--------------------
+Name: foundation of data quality management.pdf
+Size: 2.95 MB
+ID: 1zqePIMlyWWgLXOUof6N8faGSxBIFyvtJ
+--------------------
+Name: Zetterqvist-1991-Statistical-estimation-and-interpre.pdf
+Size: 0.97 MB
+ID: 1zpVEtl6-HmkTR-yktXsXEduyBBOSW1m5
+--------------------
+Name: Mcleod-1991-Trend-analysis-methodology-for-wate.pdf
+Size: 1.66 MB
+ID: 1ziZrF-zyd141Sfi8w358sSGVNao3O6qV
+--------------------
+Name: Luo-2019-Water-quality-trend-assessment-in-j.pdf
+Size: 2.39 MB
+ID: 1zXmVtQfgrFERqXacBMxImqSO8dR4EiM1
+--------------------
+Name: Mcleod-1983-Trend-assessment-of-water-quality-t.pdf
+Size: 1.21 MB
+ID: 1dXZcXIyI378szbv3H5YrGYITaXoUghl9
+--------------------
+Name: ViewArgonaut v3.62 Manual.pdf
+Size: 2.33 MB
+ID: 1kRo0alDt-8RPoNhR81lRCQc5wAbKYCcy
+--------------------
+Name: ViewArgonaut v3.5_Manual.pdf
+Size: 1.70 MB
+ID: 1Fd-APyCiRHI5biFRvzNx_U8ybInFbAHv
+--------------------
+Name: Summer Schedule2.pdf
+Size: 0.22 MB
+ID: 1maWa5t1bCNTy228wW7Y2-SSU4WYFWt5Z
+--------------------
+Name: Argonaut-SW_Quick+Start+Guide.pdf
+Size: 0.23 MB
+ID: 12wUF23wQPH3CHcJMCsTZ4x-2P7lPzIEH
+--------------------
+Name: Argonaut-SW_Principles.pdf
+Size: 0.38 MB
+ID: 1UYctiaOJTjhT_nzI8Pu8fDIH6izVKK_Y
+--------------------
+Name: LEWAS Flowrate Analysis.pdf
+Size: 0.81 MB
+ID: 1H85fD9AceTjUuSncw9L7DqKvYngtsd0O
+--------------------
+Name: Flow_Tracker_Manual.pdf
+Size: 1.64 MB
+ID: 1D9ymfwYVZmdGzfaWmjO6_cwk-Zc4flM4
+--------------------
+Name: Argonaut-SW.pdf
+Size: 6.34 MB
+ID: 1j2DFwUyMFn_UGeNyKq0L4WckRbadIgeS
+--------------------
+Name: Argonaut-SW Manual.pdf
+Size: 6.34 MB
+ID: 1FDHvtktzWEL5_IcCh8-82B8SiiCsXcqq
+--------------------
+Name: VT IRB-16-241 Approval Letter.pdf
+Size: 0.11 MB
+ID: 19_iiZU6ueSBVq6SwSW6R1wMucP28-YWa
+--------------------
+Name: IRB-16-241-Research Protocol FGOKv2020.pdf
+Size: 1.16 MB
+ID: 19_f5giIGnWMSadnmpIwBRWxdJ9My19_-
+--------------------
+Name: RET Informed Consent Interview-IRB Revised-2020-Verbal.pdf
+Size: 0.67 MB
+ID: 19WK1pzcgBjEk_bqkDonYBxagrx_PWyog
+--------------------
+Name: LOU Interview Protocol 2020+covid.pdf
+Size: 0.29 MB
+ID: 19Vwc8FG2kpVPo56m89O-yFdNs1FpRQY-
+--------------------
+Name: LOU Interview Protocol 2020.pdf
+Size: 0.29 MB
+ID: 19JXIKtxG8mYKUmFPVnIb2V8HmOfBu18U
+--------------------
+Name: LOU Interview Protocol.pdf
+Size: 0.27 MB
+ID: 0B_56Cdb8fwlbNFZZY2VfUlRDTGc
+--------------------
+Name: RET Informed Consent Interview-IRB Revised-2020.pdf
+Size: 0.11 MB
+ID: 18lhjVEGl4UChq2Sfb5ViCpnFsUdcggcN
+--------------------
+Name: Lewas Systems Document.pdf
+Size: 0.59 MB
+ID: 1rCFOPHMiDfB9JW8ae7LaRU0vXTkOK7tV
+--------------------
+Name: C3_LinePrecedenceExercise.pdf
+Size: 0.05 MB
+ID: 1YEvYgTYnzC1F1UvfVhuFdwr0jqUnFx67
+--------------------
+Name: Ortho _ Iso View Exercisdes.pdf
+Size: 0.77 MB
+ID: 1YPixJ9a6_xyWMtq62wG8jKYCOh1hy-N-
+--------------------
+Name: C3_ProjectionsExercise.pdf
+Size: 0.07 MB
+ID: 1YR4K0U0ifytjjyNg19hd8YPIN0mXwKfB
+--------------------
+Name: C19 - Loop from a flowchart.pdf
+Size: 0.07 MB
+ID: 1XsGziLg9p6m-o0wz3cMBUS73mBxWqEM2
+--------------------
+Name: Flow_Tracker_Manual.pdf
+Size: 1.64 MB
+ID: 1AuMD92O5IuJHRUGXRKS0NLi9q7VAH8eN
+--------------------
+Name: MidPointVelicityAreaMethod_Illustration.pdf
+Size: 0.05 MB
+ID: 1lp3aW7eZ6Lv065Efu6voAUU24v-L0KP6
+--------------------
+Name: _Final__Insights_and_Challenges_in_Developing_a_Remote_Real-Time_Watershed_Monito.pdf
+Size: 0.97 MB
+ID: 1FCSZRGeAUNrooqg7aimMi3lUxwHJIjfA
+--------------------
+Name: ASEE-LEWAS_Final_Submission.pdf
+Size: 0.69 MB
+ID: 1zBAo610oKO_mo8Mm4vFUsH9Zm0bdKeRd
+--------------------
+Name: The_Platform_Independent_Remote_Monitoring_System_v4.pdf
+Size: 0.69 MB
+ID: 1WcX8-GBSpafAryME2SekmKZd6sdRn4vi
+--------------------
+Name: Montgomery_VA_Upper-Stroubles-Creek-watershed-TMDL-implementation-plan.pdf
+Size: 1.90 MB
+ID: 1oZUxrqQbT_zZzvnWgpheDxn0ICdIYbdE
+--------------------
+Name: VA_DEQ_A-stream-condition-index-for-Virginia-Non-Coastal-Streams.pdf
+Size: 3.61 MB
+ID: 1BcDSZFGpMo4fmw3JItaVhGGqT7xVpBti
+--------------------
+Name: section1.pdf
+Size: 0.49 MB
+ID: 1oM2gmEgxh02i4TYXSBUQv9Fg6pTDFguO
+--------------------
+Name: section1.pdf
+Size: 0.49 MB
+ID: 1q3goy0GM2gioFlpgH-10BtUaLxPAu-0C
+--------------------
+Name: Ocean Explorers.pdf
+Size: 0.24 MB
+ID: 1bgn7v2PnjQ5MWd6Wt-IeveY3tyAnQks3
+--------------------
+Name: Ocean Explorers.pdf
+Size: 0.24 MB
+ID: 1pYX3fZ4QkbIwdH1tjUK2Vr_9btnsBtxq
+--------------------
+Name: WiresharkPres.pdf
+Size: 1.52 MB
+ID: 1zDBTvRWRwILVEj2h1x4rq8f4arYuHrOt
+--------------------
+Name: Copy of netcam-xl-manual.pdf
+Size: 2.53 MB
+ID: 1bUPVcNrVZ9ZEl714_bP2iWkTkbmzBErO
+--------------------
+Name: honeywell-sensing-cslw series-product-sheet-005861-1-EN.pdf
+Size: 0.22 MB
+ID: 1QqGe7YvOmHoGmUCpSyYLVCpvAaq-4nPT
+--------------------
+Name: Virginia Tech Mail - Fwd_ Turbidity Sensor Issues - [Reference Number_ 190923-000035].pdf
+Size: 7.62 MB
+ID: 1lDqRsoLlox5lgg9gkAV_lvj39DmGMMg0
+--------------------
+Name: Final Report 2017.pdf
+Size: 6.31 MB
+ID: 12R4U-cu7U0NZZvpOCHLJCM79zZg7VfV3
+--------------------
+Name: Final Report- 2016.pdf
+Size: 6.75 MB
+ID: 14GCEsDvx2o_6J6QrlwMFDiRMXi__hsKt
+--------------------
+Name: Virginia Tech Mail - Sonde Saga (cont.).pdf
+Size: 0.29 MB
+ID: 1s3rvJubOZ3lh426pbTP6ZsPK0Z0IAq2h
+--------------------
+Name: C19 - Loop from a flowchart.pdf
+Size: 0.07 MB
+ID: 1KVfMMn9gkhWwF9d_geX588y8Ns2NEMlN
+--------------------
+Name: Ortho _ Iso View Exercisdes.pdf
+Size: 0.77 MB
+ID: 1JVLq0Yjh79jtXJeR9bWvM7mu1NPoZFyE
+--------------------
+Name: C3_ProjectionsExercise.pdf
+Size: 0.07 MB
+ID: 1htJxvqzsiNGgiOnSj1ND8MDo5qnH0-OU
+--------------------
+Name: C3_LinePrecedenceExercise.pdf
+Size: 0.05 MB
+ID: 1oVT_nipM0gHXyzgZef5OsDr5XMo-9R-l
+--------------------
+Name: Stream Condition Index for Non-coastal streams.pdf
+Size: 3.61 MB
+ID: 1lxa3RKwagqeiaqoUyvkYUW9JK5_6H7EF
+--------------------
+Name: Stream Condition Index for Non-coastal streams.pdf
+Size: 3.61 MB
+ID: 1WeqyZcgvt3vgn-0MhoK-5oIWWmeuXQob
+--------------------
+Name: TSS protocol-HACH.pdf
+Size: 0.33 MB
+ID: 1lmHwH1uapmxTKo47a4mvIalp5Mz3uV8g
+--------------------
+Name: TSS protocol-HACH.pdf
+Size: 0.33 MB
+ID: 1zP19iynpkEJmAmfeqGOeKYY9VX4VM7D0
+--------------------
+Name: 20190828111635955.pdf
+Size: 2.07 MB
+ID: 1UUx4g4ng2lvl71bS9AwhZnz6njBhyM1n
+--------------------
+Name: PPCP Presence Karst Poster FD - SCHMIDT (2).pdf
+Size: 2.70 MB
+ID: 1TlP9lQml8-zqb1s6yWKbfEJ0rKIFYfdt
+--------------------
+Name: RET Summer 2019 Poster copy (1).pdf
+Size: 141.18 MB
+ID: 1T-wROPuFGhXglwGu763nQSoT70yd5gfb
+--------------------
+Name: Shawn Becker poster - AHN_erh.pptx.pdf
+Size: 4.83 MB
+ID: 1TUuJ1Widnxd4DtBvY2LIRA766EORMqF9
+--------------------
+Name: Nitrate in Karst.pdf
+Size: 1.75 MB
+ID: 1TTozMkhKHUi7-EpgzdN-iAmzVy5gy6ey
+--------------------
+Name: Hickam Revised July 29, 2019.pdf
+Size: 0.77 MB
+ID: 1TLZj_HGyk5k2bnE1dUUtVoJCfl1TxYWE
+--------------------
+Name: 2019ResearchSymposiumPoster-MTs.pdf
+Size: 1.18 MB
+ID: 1TDu0xMwPct9tm_P2oyoaupTaZ2R_n-Ew
+--------------------
+Name: RET Summer 2019 Poster.pdf
+Size: 2.59 MB
+ID: 1TGrOfkjxXxDD84BC40FeuaarA_uauqH7
+--------------------
+Name: Carr_Poster 2019 FINAL.pdf
+Size: 0.59 MB
+ID: 1TJqeWFdOYqm4dkQhkrMbr1q_9Nx48N6b
+--------------------
+Name: VA SOS Bug ID Card (1).pdf
+Size: 0.46 MB
+ID: 0B_56Cdb8fwlbOGI0MGlTNG1QUGR4alZ3MHBFaWpTaTVPaW9N
+--------------------
+Name: Ortho _ Iso View Exercisdes.pdf
+Size: 0.77 MB
+ID: 1gTl5wQaNwDzdaGo3iWhv2Nfj_nO8Dszd
+--------------------
+Name: C3_ProjectionsExercise.pdf
+Size: 0.07 MB
+ID: 1fae33R28PzZohq83FddIQX2Sp-xjgbog
+--------------------
+Name: C3_LinePrecedenceExercise.pdf
+Size: 0.05 MB
+ID: 1fiaYIYsao0t-Y7jeNkN8eMEGIdXc_fyv
+--------------------
+Name: C19 - Loop from a flowchart.pdf
+Size: 0.07 MB
+ID: 1f11_TbEesuzLXgQxmHUz4DozBu8JbDDz
+--------------------
+Name: Moving & Floor Plans.pdf
+Size: 0.66 MB
+ID: 1NYG8T9hqs2OqBGVn99UViQQuLr40_qjr
+--------------------
+Name: NSF_RET_2019_Orientation_Pres_NoIRB.pdf
+Size: 9.56 MB
+ID: 1IkTHWOWrfbXKnSNH15aDd0G6NMwnivl4
+--------------------
+Name: RET Informed Consent Focus Group-IRB Revised-2019 (1).pdf
+Size: 0.64 MB
+ID: 1J-4YRzpsZI97LrZNiW72r9ZcMU1-lQl0
+--------------------
+Name: RET Informed Consent Interview-IRB Revised-2019.pdf
+Size: 0.64 MB
+ID: 1IuQ_88PN-VELxU7ILYtKH2FuI0WPDC1L
+--------------------
+Name: VT IRB-16-241 Approval Letter.pdf
+Size: 0.10 MB
+ID: 1J2iw-WCC-SuAbKQQRNy6Ir-yHJnMj02Y
+--------------------
+Name: marcedwards-lectureflyer-2019-b.pdf
+Size: 0.23 MB
+ID: 1IiQmvwJmyFKUFAwuzlTS1G9ixYhPfJ6N
+--------------------
+Name: the_sort_and_mingle_game.pdf
+Size: 0.02 MB
+ID: 1I-mFqCzqZU6qyNcp0vCWZsH6ybsBVhP1
+--------------------
+Name: finding_favorites-activity.pdf
+Size: 0.04 MB
+ID: 1HuHAsav3RHt11RI4SnElW_AAu7MCP3WO
+--------------------
+Name: wheel_of_life_worksheet.pdf
+Size: 0.03 MB
+ID: 1HspvaXVlZIC6DU2xJ8I95ml3Or5tQHSX
+--------------------
+Name: NSF RET - Orientation.pdf
+Size: 0.27 MB
+ID: 1G9oZkibhmSQpK_f2zA6T3IRta4YmdoyJ
+--------------------
+Name: 19VT IRB-16-241 Approval Letter.pdf
+Size: 0.11 MB
+ID: 1icbgEN4GYEryspkS1xruogsKu7MZ5f7Q
+--------------------
+Name: 19RET Informed Consent Interview-IRB Revised (1).pdf
+Size: 0.58 MB
+ID: 1iQeIr4QlwoVXJMane6C0qTyX2n0KqP-2
+--------------------
+Name: 19RET Informed Consent Focus Group-IRB Revised.pdf
+Size: 0.58 MB
+ID: 1iKuuMOSCOyjdDD2Kl5VAR7ahTN3oAsDc
+--------------------
+Name: Copy of In Class - ORI.pdf
+Size: 0.99 MB
+ID: 18AQrqkmfVcaJhiWU8d_3KAB_Lcu2-QvT
+--------------------
+Name: Copy of Stream Condition Index for Non-coastal streams.pdf
+Size: 3.61 MB
+ID: 187B7ZmXYLaxg6APyGBPIGtYGhlmg9itq
+--------------------
+Name: Copy of Virginia Modified Method.pdf
+Size: 0.34 MB
+ID: 186B8VOGwcUos6Ba9SDgPERJWARFc-6HM
+--------------------
+Name: Copy of Aquatic.pdf
+Size: 1.16 MB
+ID: 188-TN0b7FfPzZmZmAkBHBF4BZLStuCXg
+--------------------
+Name: Copy of TemperatureSensingWithRaspberryPi_InstructionManual_students .pdf
+Size: 1.45 MB
+ID: 15CGFZUr76SOrb78EbLmN5S7fOGvguktc
+--------------------
+Name: Copy of Hydrolab_MS5_Manual.pdf
+Size: 5.03 MB
+ID: 15odEy4T1QQo0_jTjuymI-WRYm5LoDMhJ
+--------------------
+Name: Copy of Water Quality Measurements.pdf
+Size: 1.76 MB
+ID: 15rdwCtBeaXSJQX9Z8g1j6A2D-ZyLbVye
+--------------------
+Name: Copy of SOP_Hydrolabs_5.1.14_Rev0.pdf
+Size: 1.20 MB
+ID: 15mqc2j12FL19M5VETUGRXJZLcRvs5XQY
+--------------------
+Name: Copy of Argonaut-SW_Principles.pdf
+Size: 0.38 MB
+ID: 14hfqwBaUIxNI5ZQE1unAWHNbvIAvR0ka
+--------------------
+Name: Copy of (TSS _ TDS) Standard Methods 2540A-G.pdf
+Size: 54.17 MB
+ID: 16KPbCLmiOyBPL4nrA465ppZ2yW77x_br
+--------------------
+Name: Copy of Aronhalt.pdf
+Size: 1.39 MB
+ID: 16UfryFMsUyHvnoDvNgrsSDqIZJQqJW1_
+--------------------
+Name: Copy of Nutrients and Water.pdf
+Size: 0.03 MB
+ID: 16OW204cw_KGDbUJ4lVaIIQcN57BQwjWW
+--------------------
+Name: Copy of Grab sampling sediment activity.pdf
+Size: 0.02 MB
+ID: 16Oh3yquJj3jMYxWwtQylilet3oSRltV-
+--------------------
+Name: Copy of pH.pdf
+Size: 0.06 MB
+ID: 16QFT-hkgCYzcujz7Vi4HuxfNM7DSin4z
+--------------------
+Name: Copy of Water Quality I.pdf
+Size: 1.35 MB
+ID: 162UrLcqIJVUHfDwHyG1pLQNds2bh6lip
+--------------------
+Name: Copy of Aguilar, Dymond - 2015 - Evaluation of Variability in Response to the NPDES Phase II Stormwater Program in Virginia.pdf
+Size: 1.85 MB
+ID: 16954BGeJWCcJ77kbc8Zy3FLTMEGrf1Du
+--------------------
+Name: Copy of Water Quality II.pdf
+Size: 1.77 MB
+ID: 16AUqd_aB7rtrKfvT_qF-0C8Xvt8yyCQO
+--------------------
+Name: Copy of low-cost-water-monitoring-kit-manual.pdf
+Size: 0.34 MB
+ID: 167SEHeKE3GtHA5d4XiApQWez3UTy02-P
+--------------------
+Name: Copy of Stormwater Policy.pdf
+Size: 3.17 MB
+ID: 14nDJozdLN4fAFkchxlIToMs8UvAqtCAc
+--------------------
+Name: Copy of Virginia Stormwater Regulations.pdf
+Size: 2.08 MB
+ID: 1546S7Db23vKojGg9e08ueQ26E87mLR2h
+--------------------
+Name: Copy of Copy of Doyle, Bernhardt - 2011 - What is a stream.pdf
+Size: 2.01 MB
+ID: 158cLzI7X16drnju45kweNO9RuO1rKZSJ
+--------------------
+Name: Copy of Copy of Leopold - 1968 - Hydrology for Urban Land Planning.pdf
+Size: 1.38 MB
+ID: 14uw13VMWxuWOiVd3ShY-bz3O5Ih04A45
+--------------------
+Name: Copy of Copy of Hardin - 1968 - The Tragedy of the Commons.pdf
+Size: 1.42 MB
+ID: 153NP6k0lAZyM_j9De7_8kmHuB4TA1vWe
+--------------------
+Name: Copy of Copy of Walsh et al. - 2005 - The urban stream syndrome current knowledge and the search for a cure.pdf
+Size: 0.64 MB
+ID: 14o3BHwzgUislmCrwPMLHSxWTsErKhiFI
+--------------------
+Name: Copy of Vaisala Weather Station.pdf
+Size: 3.24 MB
+ID: 15cwAXLg0bh2XG9vYP9zrHe8IRcHNLhDT
+--------------------
+Name: Copy of HydrographNotes.pdf
+Size: 0.46 MB
+ID: 15ZK3S8LXqWYadQzHTWCbhx9zdCWnnrI2
+--------------------
+Name: Copy of tr55_Manual_Ch1-3.pdf
+Size: 0.42 MB
+ID: 15Q2PEyRIcQDNdFpGlJxcvEQJD__y_x0w
+--------------------
+Name: Copy of History of Hydrology.pdf
+Size: 3.38 MB
+ID: 14TkqZPQNPq9QekQdOd3YzCwNURCdod1Z
+--------------------
+Name: Copy of Time of Concentration.pdf
+Size: 1.17 MB
+ID: 14Yef32_vY-EosYa1BOSQ0KquaB36mTAW
+--------------------
+Name: Copy of Map2.pdf
+Size: 1.45 MB
+ID: 14YLQINpMTaRiYJkB3DIB253Zh2orO1MS
+--------------------
+Name: Copy of Map1.pdf
+Size: 1.21 MB
+ID: 14Sy_0Ki-o_drFhMevTURmdQPCoPplHp2
+--------------------
+Name: Copy of DelineationNotes.pdf
+Size: 0.15 MB
+ID: 14a3jRv0UynVOFOyWyPo9Z1BBNjgpdCJQ
+--------------------
+Name: UNCERTANITY ANALYSIS.pdf
+Size: 0.10 MB
+ID: 1yTyrq3TXWW_HnV-f9E4AtlYWnnFj7Dfv
+--------------------
+Name: Significant Digits - Bevington.pdf
+Size: 0.85 MB
+ID: 1F0CIQwshL_37r7O-3QVVvkG2yQSgUzET
+--------------------
+Name: The Abstract.pdf
+Size: 0.01 MB
+ID: 14AoVk7n69_Xga_ZSBzoNJIxgBlbCABzm
+--------------------
+Name: Hydras_3_LT_E.pdf
+Size: 0.40 MB
+ID: 1cvuUGR-2BbmIQpDG1YVmm5AEd2MZ-1uq
+--------------------
+Name: Barnes_Amanda.pdf
+Size: 0.29 MB
+ID: 1brXZ5E-WD2G7IaS_t-X9i7kctpZ_K2Zb
+--------------------
+Name: Barnes_Chris_RET Application.pdf
+Size: 0.42 MB
+ID: 1bmSZvPg9ZnHVuOTJlaehT6-0g8VTEUJ3
+--------------------
+Name: Melissa Carr - VT RET Application - Chemistry Teacher 2019.pdf
+Size: 0.25 MB
+ID: 1c-96RcW3W6QRL2X4wqedQ-droCrHR1fg
+--------------------
+Name: VT Water E3G RET.pdf
+Size: 0.10 MB
+ID: 1basZsHoeM1Odrzti-TmNOtywP-nWNpHy
+--------------------
+Name: Amy_Job_Combined_Files.pdf
+Size: 0.44 MB
+ID: 1c6dt1L5JXcFVZdQ9204vR5no0f4g2WCX
+--------------------
+Name: Napier_E3G Application_Final.pdf
+Size: 0.21 MB
+ID: 1biBtEtCfL8UYQC2v4xpnrFvgOux-DYzn
+--------------------
+Name: Twyman - RET 2019 Master Teacher.pdf
+Size: 0.37 MB
+ID: 1bFH_jJbEC7OVW7_C6nL1Nq2XFSBg2aAj
+--------------------
+Name: Rachelle Rasco-MT Position.pdf
+Size: 0.24 MB
+ID: 1avmXwVnwSWLcYhgRALTc8pKKLI9x39MQ
+--------------------
+Name: Master Teacher Water E3G Application for Steve Ahn.pdf
+Size: 0.69 MB
+ID: 1azBQKYAlHTfH1GlsjBYnJM-huPKPOIM0
+--------------------
+Name: Young - RET MT Application.pdf
+Size: 0.23 MB
+ID: 1b6LwObiEya2wCWWnt4So_3QMoTzRW46f
+--------------------
+Name: Master Teacher Application.pdf
+Size: 0.19 MB
+ID: 1b1-JXnwHo157dSYPst5zoa9YhdjoOjCO
+--------------------
+Name: Water E3G RET Program, VT.pdf
+Size: 0.12 MB
+ID: 1AiwkHJSzGSg5_Z42aQXKl7WlL1GmiEM8
+--------------------
+Name: d4cc68dc-7bf7-4b94-a702-335361387577.pdf
+Size: 0.15 MB
+ID: 1VlM6cZd0K7exEWpj4dX5LyI6TmicY7I3
+--------------------
+Name: 20180502172400314.pdf
+Size: 0.09 MB
+ID: 1UPxYCDrdGu79EkNXVdN_qZk_jb0COHTG
+--------------------
+Name: 20180502172400314 (4).pdf
+Size: 0.09 MB
+ID: 1TIFAhtbrgGcf805EW52vhxZvQBWZocgq
+--------------------
+Name: 20180502172400314 (5).pdf
+Size: 0.09 MB
+ID: 14au2I1AcdMFEQ-kiIUiNA0kD8_YsVRPK
+--------------------
+Name: 20180502172400314 (3).pdf
+Size: 0.09 MB
+ID: 1jn90Pb9BgOgobRys4ktWItgUMfcSMdYz
+--------------------
+Name: 20180502172400314 (2).pdf
+Size: 0.09 MB
+ID: 1ifTUixdXNjivnjq-28jIyBRLFf0GZ7f2
+--------------------
+Name: Lash.pdf
+Size: 0.23 MB
+ID: 1hHHLol5stlcQJ5w05byPevIC8i2oiloc
+--------------------
+Name: Kaase ECubeG Research Application.pdf
+Size: 0.20 MB
+ID: 1L_r_TlFrw0A8ESyEbr5UixK8gN0hy8Hw
+--------------------
+Name: 20180502172400314 (1).pdf
+Size: 0.09 MB
+ID: 199a0NCJ9Hc7cS4QICykInxxgK7ONDYON
+--------------------
+Name: 20180502164054284 (2).pdf
+Size: 0.09 MB
+ID: 1qE6cJegP50IYaQJHeziYdJsMo3TRJ871
+--------------------
+Name: WaterECubeG2018Sherman (1).pdf
+Size: 0.58 MB
+ID: 1MGi2zIKiLyEmKzzoXWdrf3nXHeaDKUaY
+--------------------
+Name: Kaase Criminal Record Disclosure.pdf
+Size: 0.06 MB
+ID: 1LydWi_2H5jaxqmdRGbUo8ASW5W-TcLwF
+--------------------
+Name: Kaase Fellowship Information Supplement.pdf
+Size: 0.07 MB
+ID: 1ywJaSFGIOg8DHcgmylWGkVxt8rKEP_V-
+--------------------
+Name: vanMontfrans_ECubeG_RETApplication2018.pdf
+Size: 0.38 MB
+ID: 1Ly2ZSeoPfAgsEb_lvW1ex699UvvN_XCR
+--------------------
+Name: Sood_ pulaskicounty_HS.pdf
+Size: 0.21 MB
+ID: 1QFTarIquPcNmDmrDK4xN3z89GZgyFDEQ
+--------------------
+Name: madden_cavespring_HS.pdf
+Size: 0.13 MB
+ID: 1--QrV0OBBYwa5bDWrFyUv-W4Sxv6qxP9
+--------------------
+Name: Letter for Caroline Hickam.pdf
+Size: 0.02 MB
+ID: 1_rHw50Hr-IemE1KfyWdKX2U3m0yBexT3
+--------------------
+Name: Hickam Resume.pdf
+Size: 0.12 MB
+ID: 1wC1cWqz2YPUHXvrB3A5El9_opzNJ2Oav
+--------------------
+Name: Ahn E3G Application.pdf
+Size: 0.30 MB
+ID: 1uTDOZGMdyCmbI-Mba7LDmohzmkQwSnBL
+--------------------
+Name: Hickam Application.pdf
+Size: 0.15 MB
+ID: 1ywkgVWi0R2UjmpeT6ywC727f_Eisjllk
+--------------------
+Name: direct_deposit_form.pdf
+Size: 0.05 MB
+ID: 1lJi-mxI6wEqkow1Sa_Z5FBpQ1lDcXnnz
+--------------------
+Name: Travel Reimbursement.pdf
+Size: 0.44 MB
+ID: 1g6Eb6NcpUjBn7aF08Fi04SKKqSyJNzV4
+--------------------
+Name: Reimbursement Documentation.pdf
+Size: 0.44 MB
+ID: 15re8w1vv1FJ7Vh8Xj__JalyGPNi2oHoj
+--------------------
+Name: Long-Term Visitor Parking.pdf
+Size: 0.08 MB
+ID: 1HgaYurnjwz74ZE77mAhuXzYPJ-Z0bTTN
+--------------------
+Name: Ashby (1).pdf
+Size: 0.23 MB
+ID: 1u7Ouw3nHJjvjvNsM9oxJxtYPhGExA1j7
+--------------------
+Name: W9_form.pdf
+Size: 0.04 MB
+ID: 1sv5I9JB8BLvsiSouZGz8CtDhjJC6ffjW
+--------------------
+Name: W9 form.pdf
+Size: 0.13 MB
+ID: 1tRIqkgQfVqEAdcu1pop_gEM6-l61yehW
+--------------------
+Name: vanMontfrans_ContEdSignIn_RET2018.pdf
+Size: 0.68 MB
+ID: 1yVymo-SevVJ2CugmLuOFdRnZQmDNCbxx
+--------------------
+Name: Continuing Education NSF-RET Sign in Participant Sheet.pdf
+Size: 0.02 MB
+ID: 1Fwxfu54px_r3lvs6zLQmyqmJsZ1WU9P1
+--------------------
+Name: Twyman_Water-ECubeG-RET_Application (2).pdf
+Size: 1.02 MB
+ID: 1xu_QGvZ-RsrEhxY-_KEwLlOwH1p0dnO5
+--------------------
+Name: Award Letter.pdf
+Size: 0.27 MB
+ID: 1WZST9c9eYCXV9jk7HGRtjKoEw6Kyxg4G
+--------------------
+Name: VT campus parking map.pdf
+Size: 1.24 MB
+ID: 1VAtlWovj-QT-qlis4akIb3dgfCvwnc2d
+--------------------
+Name: Lohani NSF RET Letter No. 2.pdf
+Size: 0.04 MB
+ID: 1yBJSkkuGIPDaN_M-U7i_5pHkzOYMMjVv
+--------------------
+Name: ictas_travel_reimb-1.pdf
+Size: 0.08 MB
+ID: 1b-eB0rDuPe37FKhq8c-q6nPzywlvjMvX
+--------------------
+Name: VT campus building map.pdf
+Size: 1.80 MB
+ID: 1a5t7adAH9XPOPp9iHiMwBhzzvweh1MHc
+--------------------
+Name: (2017) Dawn Hakkenberg (2).pdf
+Size: 3.42 MB
+ID: 1kMY-xir3_rGbRyQiDk7BwYJFOeTJcC3S
+--------------------
+Name: (2017) Shaunna Young (2).pdf
+Size: 0.32 MB
+ID: 1gCeMjeGV5HrgkzBEqeKR1d0uSXc7KlFl
+--------------------
+Name: (2017) Katie Holcomb (2).pdf
+Size: 0.14 MB
+ID: 1bjxDwkCR3uySFnnDaoqsVxDx5NileitL
+--------------------
+Name: Updated_substitute_W9_AP.pdf
+Size: 0.05 MB
+ID: 1oOo8EwP3eT2XcOP432Er7VHTEAiA7Fdp
+--------------------
+Name: W-8BEN.pdf
+Size: 0.04 MB
+ID: 1DqI_dCyop4Ha__GQmLN-ASOpoANP3ZML
+--------------------
+Name: Virginia CCC System.pdf
+Size: 0.05 MB
+ID: 18A-i7KefxI_r6eOsRsHqfHVyFyrkOwH-
+--------------------
+Name: RET_Water ECubeG_Flyer2018.pdf
+Size: 0.77 MB
+ID: 1HX1LGpnd1RN2f5R-iRv6394Cl92uw0K0
+--------------------
+Name: RET_Water ECubeG_Flyer2018--3.9.18.pdf
+Size: 0.77 MB
+ID: 10fgPxSC2soffyUeoZ5xbXvcAC11qReSA
+--------------------
+Name: (REDO) RET_Water ECubeG_Flyer2018_Draft (4).pdf
+Size: 0.77 MB
+ID: 11Ps8nELfUEHaH0yWKPEw_FJKyD7gtaeb
+--------------------
+Name: (REDO) RET_Water ECubeG_Flyer2018_Draft (3).pdf
+Size: 0.77 MB
+ID: 1h00VmHmmmmTI8vLKdSvg2_fCkiU4QSZn
+--------------------
+Name: VT PO SY10433 09-27-18.pdf
+Size: 0.79 MB
+ID: 1yPAYzHcA1dEVH-7yhzkr2lv_EbfuLCJG
+--------------------
+Name: RET.Ahn_Steve_ICTAS Reimbursement Form.Revised.10.29.12.pdf
+Size: 0.11 MB
+ID: 1sD6Hb8txhcX64EWLR2Fs4BMw7BbCXf2n
+--------------------
+Name: (REDO) RET_Water ECubeG_Flyer2018_Draft (2).pdf
+Size: 0.70 MB
+ID: 1nGRdmUHPa4JMnNxchAJywDGv-TfaEQZJ
+--------------------
+Name: ICTAS_PO9.27.18.pdf
+Size: 0.70 MB
+ID: 1CIV6HU6qI3VmfxcOUjJVhVkXBg5y6qc2
+--------------------
+Name: Shawn Becker.pdf
+Size: 0.13 MB
+ID: 1IuJ6WGTvhJnxxVpi422yl1itfqiq0myD
+--------------------
+Name: Sood_ pulaskicounty_HS.pdf
+Size: 0.21 MB
+ID: 1C7Eq_AKX5T_IbJ3SQrxE1lf3dofrRnzs
+--------------------
+Name: madden_cavespring_HS.pdf
+Size: 0.13 MB
+ID: 13fZc0zhsc9WjLWKPBp2EVD-pU2dNa31u
+--------------------
+Name: RET_WaterECubeG_Flyer2019.pdf
+Size: 1.20 MB
+ID: 1EiaDzioS6-PCXjaKy1vy2h2yhqpbTOrs
+--------------------
+Name: RET_WaterECubeG_Flyer2019_Final.pdf
+Size: 1.32 MB
+ID: 1V0GHGMqJUtrWczD5fVc4_tgt5CGWx8Cy
+--------------------
+Name: Shawn Becker.pdf
+Size: 0.13 MB
+ID: 1bYfYpT5ZoXopsUnMVitDV8qYcbEbBCfG
+--------------------
+Name: RET_WaterECubeG_Flyer2019.pdf
+Size: 1.28 MB
+ID: 1UmsxTFOzxYi3aGFaI83g9C2IkJZ-U36a
+--------------------
+Name: RET_Water ECubeG_Flyer2018--3.9.18.pdf
+Size: 0.77 MB
+ID: 1UUq6loApAHZK3JDcTz_iQgCSWE2nYQO3
+--------------------
+Name: NSF Poster (2).pdf
+Size: 0.89 MB
+ID: 1VP0v6QkIQ3OBuy5-lMj8eBlBbQacM31I
+--------------------
+Name: NSF Poster (1).pdf
+Size: 0.89 MB
+ID: 1VLbkKOHAs1IuqS2awB-vmSkxaTJkzewy
+--------------------
+Name: NSF Poster.pdf
+Size: 0.89 MB
+ID: 1VBueU-CYHkecC9pyh09aZBlwxss1udVE
+--------------------
+Name: ggplot2-cheatsheet.pdf
+Size: 1.17 MB
+ID: 1KPrDfaJ2foLd_6blIHV562ghi-SNNSHX
+--------------------
+Name: 2019 NSF REU Flyer.pdf
+Size: 0.22 MB
+ID: 1wqEWpU7RBmoOqs1b-u6eNJwfYzyiepxM
+--------------------
+Name: series_5_man.pdf
+Size: 5.03 MB
+ID: 1_79hLc04rQucE14S-E68R9waIj_UnRv7
+--------------------
+Name: Delgoshaei_P_D_2013.pdf
+Size: 3.80 MB
+ID: 1jcYwo4Mri4AJKf02aCeA0JQic71FkeBX
+--------------------
+Name: Brogan_DS_D_2017.pdf
+Size: 15.14 MB
+ID: 1TxKBZ6CInH1a9QhDlyzS1R2DdAQ0O4Ep
+--------------------
+Name: Basu_D_D_2018.pdf
+Size: 5.30 MB
+ID: 1WmJfiQOAdcoDBHac6WvxJwF8oz3-PRRg
+--------------------
+Name: NSF REU_2018_Orientation Presentation.pdf
+Size: 5.55 MB
+ID: 1LgflN4EuYN8vxZJTLs-qUKkDmaNlxHLj
+--------------------
+Name: Orientation Program.pdf
+Size: 0.37 MB
+ID: 1KLqlzXMz2nrOM56CB2IpGmUzHEV4EjXd
+--------------------
+Name: NSF REU- Closing Ceremony.pdf
+Size: 0.29 MB
+ID: 1cX2bA-o7_m32tlc3bG3QBiTbE66wgdby
+--------------------
+Name: REU Professional Development.pdf
+Size: 0.11 MB
+ID: 12nxsHCiU23ndM67ThQt5XebubKjeMFsb
+--------------------
+Name: Twyman_ResearchSymposiumPoster_final.pdf
+Size: 4.22 MB
+ID: 1qjNbCjdTXkjzv-ABocNShGzqq3sClviR
+--------------------
+Name: KAUST Orientation Attendees.pdf
+Size: 0.08 MB
+ID: 1C9KBNFwxjtsNtRIx148kjNTGLWZ1C_cE
+--------------------
+Name: Faris Poster.pdf
+Size: 3.17 MB
+ID: 1oA5SnenJ2L51Wc9krFM-nXtkkb4OwNmW
+--------------------
+Name: Basem Poster.pdf
+Size: 11.52 MB
+ID: 1AdZcLe92HauAbYs-RFpAMlv68FnN-WZd
+--------------------
+Name: Poster-Jaafar.pdf
+Size: 0.44 MB
+ID: 1qaGjInE4YgyES3xQKhI016fKFuW-UQxt
+--------------------
+Name: Hassan_Poster_VT_2018_final.pdf
+Size: 0.52 MB
+ID: 1WpAh54pfMqMB7-ItJvXCY-5XjWDOdHNV
+--------------------
+Name: YasmeenPOSTER1.pdf
+Size: 0.82 MB
+ID: 1z8jQRFeL9yAeWBUF-YlOCVTj4QBIUQ_d
+--------------------
+Name: KAUST Closing Ceremony Agenda.pdf
+Size: 0.29 MB
+ID: 1JjCpLWql9dtZk69_kZRmSNwQhCICTckg
+--------------------
+Name: KAUST Professional Development Activities.pdf
+Size: 0.01 MB
+ID: 1aymTXarNJredLlTkE-k3vwBl4xabxka7
+--------------------
+Name: KAUST Orientation.pdf
+Size: 4.79 MB
+ID: 1hhwGdFx5JIEpUGuMewX10yjoDj0yE5RH
+--------------------
+Name: Katie Holcomb RET CEU sign in sheet.pdf
+Size: 1.19 MB
+ID: 11Raza3rUoM_mY4ePsgfUlmVkvSz5JJdR
+--------------------
+Name: Katie Holcomb RET CEU sign in sheet.pdf
+Size: 1.18 MB
+ID: 11oYCrxZEDcTXe-JURAYjrMRgND7wailK
+--------------------
+Name: RET Closing Agenda B.pdf
+Size: 0.11 MB
+ID: 1BZtRzU2k77DQVNmWoruqMfT7W5TNph6b
+--------------------
+Name: RET Closing Agenda Final.pdf
+Size: 0.14 MB
+ID: 1BArrHuLj2RtCP9aPuD2dMfQxdzUs99VC
+--------------------
+Name: RET Closing Agenda Final.pdf
+Size: 0.14 MB
+ID: 1B8wc5JARt_tziJV2AcIpRadAEn-wgC9Y
+--------------------
+Name: RET - S. Young - Final.pdf
+Size: 0.60 MB
+ID: 1NphrivTXZaquzLuXaVp6dSHLBm_KDBer
+--------------------
+Name: Nitrate in Karst and SFH poster FINAL - Ahn and Lu.pdf
+Size: 1.90 MB
+ID: 1Nc0AhVNnrhA4Cw0kYZvmPqcCiZOmAVA6
+--------------------
+Name: Kaase_Research Symposium Poster.pdf
+Size: 0.43 MB
+ID: 1NVtoyL1E6Hca6SF85mmu3DxroYqqRvV1
+--------------------
+Name: Hakkenberg Final Poster 2018.pdf
+Size: 2.18 MB
+ID: 1NVWOxxWZVPAJsAKFONlqHGIz5fRMgJbC
+--------------------
+Name: RET_Poster_Sherman_Maria_2018.pdf
+Size: 1.11 MB
+ID: 1NqNIZt_dgxNkhpAa2lHG7jHSh6sEpOJS
+--------------------
+Name: vanMontfrans_Poster2_RET2018.pdf
+Size: 12.02 MB
+ID: 1NraPZ85lpVMJWlOIZq9wJ8QjuZT-T2fn
+--------------------
+Name: Twyman_ResearchSymposiumPoster_final.pdf
+Size: 4.22 MB
+ID: 1Nra6Po31s3K2mz60KUxvSsioJu4ea1QM
+--------------------
+Name: Social Flowchart.pdf
+Size: 0.02 MB
+ID: 17ch98jm38p00pcD18E0pntBQAifw5r0U
+--------------------
+Name: Midpoint Presentation Guidelines.pdf
+Size: 0.03 MB
+ID: 1-6MlU87yR04HwG1MWJo_IaV4tockdyNV
+--------------------
+Name: RascoSlides.pdf
+Size: 1.07 MB
+ID: 1Zbkl7__KECv7M-EPjm8c5ebiZ_B1NK9f
+--------------------
+Name: RET Follow up  Power Point.pdf
+Size: 1.46 MB
+ID: 1AkReN-XnJyi4zG4klbwLf04mbTG0uq4Z
+--------------------
+Name: NSF_RET_2018_Orientation_Pres_Final.pdf
+Size: 2.31 MB
+ID: 1Q6wLZGz9j6a3Ybi7Qxr-KqOu1CUUQJqQ
+--------------------
+Name: Copy of Research_Project_Westfall_12_22_2017.pdf
+Size: 4.47 MB
+ID: 1BoVTDwtz9m9zyM0tz-bOK1SdCf7PR5X-
+--------------------
+Name: NSF_RET_2018_Orientation_Pres_Final.pdf
+Size: 4.93 MB
+ID: 1AlNNemQbfJ5-duap0zXk2tV1dNbfDC_O
+--------------------
+Name: Copy of Lopez_5min.pdf
+Size: 3.85 MB
+ID: 1Bck21NnG_9gC7TdfkzmWgB215SkkCfHO
+--------------------
+Name: Copy of VT REU survey draft.pdf
+Size: 0.13 MB
+ID: 16gzQLzxn1sRv1vjbVvfcTRyyokf1bDtB
+--------------------
+Name: Copy of Alumni Survey for VT REU on Interdisciplinary Water Science & Engineering.PDF
+Size: 0.76 MB
+ID: 1cOLzcAlgPmbEawUl5sy0-_ZoXyTPkiUD
+--------------------
+Name: Copy of Initial Report_REUAlumni_Survey.pdf
+Size: 0.14 MB
+ID: 1HW6gozR7hwtBBy2G2PVVyPDpWqlGMUsj
+--------------------
+Name: Copy of VT IRB-11-222 Approval Letter (3).pdf
+Size: 0.40 MB
+ID: 1HXTssi4fhMa0t3sUjwPHE8TXl4lKu4bU
+--------------------
+Name: Copy of Alumni Survey for VT REU on Interdisciplinary Water Science & Engineering.PDF
+Size: 0.76 MB
+ID: 1FHkWOwt-6sUsaSltFu0C3Ll9c-GLWb1H
+--------------------
+Name: Copy of Elena_Lopez_Poster.pdf
+Size: 4.78 MB
+ID: 1-5LuV_pG192Ite2uunJ1OkJ7UvLG8sEn
+--------------------
+Name: Copy of Hynes_Erin_Poster.pdf
+Size: 0.81 MB
+ID: 1nBAAlbO7pYA8GJYvI2r3l7Ug0Bb7Dykd
+--------------------
+Name: Copy of Haniyyah_Chapman_Poster.pdf
+Size: 6.31 MB
+ID: 1fOEGRNeN0CTzy2hcBHCbL4LdyW84S47K
+--------------------
+Name: Copy of mathew_verghese_poster.pdf
+Size: 1.78 MB
+ID: 1W4jaiZJMkAs98XscMhO2cbXvVT14n-ch
+--------------------
+Name: Copy of Concluding_ceremony_flyer_2016.pdf
+Size: 0.49 MB
+ID: 1QE5rbF3wiMjpcaeswFcim_D_6DFR3EA5
+--------------------
+Name: Copy of Concluding_ceremony_flyer_2016_v1.pdf
+Size: 0.49 MB
+ID: 11Wol3X8SBEbRciPV7Fmumw0xX5Y1YkwD
+--------------------
+Name: Copy of NSFREUAnnouncement_2016.pdf
+Size: 0.85 MB
+ID: 1dGJrmllXcT4Uwn7l9kZjZ5O0OfGd6vnf
+--------------------
+Name: Copy of Long_Annuncement_for application2016_final.pdf
+Size: 0.85 MB
+ID: 1zsY31M4a8s92IZgIYiDV35KBOStIpl9v
+--------------------
+Name: Copy of REU_projects_Summer_2016_Announcement.pdf
+Size: 0.22 MB
+ID: 1phnhgsm-tyTm6ytnLSfJRHwBMXXC9Ys8
+--------------------
+Name: Copy of REUPoster_AubreyMcCutchan.pdf
+Size: 23.79 MB
+ID: 1kxLans1VUm1m8Fd2btM8gGnJcJurCci6
+--------------------
+Name: Copy of Final Poster_Elena Lopez (1).pdf
+Size: 4.78 MB
+ID: 1Dc0s_kBZfNeYXRf-eoKFK-CLmkcdS2BD
+--------------------
+Name: Copy of mathew_verghese_final_poster.pdf
+Size: 1.78 MB
+ID: 1DPNqZ5yWgdhH9pL9qqLk1LPe5sRIuz7w
+--------------------
+Name: Copy of REUPoster_AubreyMcCutchan (1).pdf
+Size: 23.79 MB
+ID: 1toUe9P9I_QJ1eJsPMF0DX9pDE7GFo1JW
+--------------------
+Name: Copy of FitzGerald_PPCP poster actual final (1).pdf
+Size: 0.90 MB
+ID: 1mPaI5ylUflsw3hiMb4jxsckTkc3K2VFG
+--------------------
+Name: Copy of Final Poster_Elena Lopez.pdf
+Size: 4.78 MB
+ID: 1EFz2OGnXsIG6yiIhrNomgZ_AcWGsCWDy
+--------------------
+Name: Copy of Erin Hynes VT-REU Poster - 32x40 landscape.pdf
+Size: 0.81 MB
+ID: 1hN1829p0XwxKvwOVn-Mp8OsZDH8x5wsv
+--------------------
+Name: Copy of Erin Hynes VT-REU Poster - 32x40 landscape.pdf
+Size: 0.81 MB
+ID: 1U8VqybiO5zW5H22yr2sYmFOZjJ9xGV-q
+--------------------
+Name: Copy of FitzGerald_PPCP poster actual final (1).pdf
+Size: 0.90 MB
+ID: 1HIbjloI1V268w8Gbnvq23kcbAiYYspbc
+--------------------
+Name: Copy of mathew_verghese_final_poster.pdf
+Size: 1.78 MB
+ID: 19kG3KEoKIPBAqiETWzaFQUPpRs6iCKqm
+--------------------
+Name: Copy of Report_Format_debarati.pdf
+Size: 0.56 MB
+ID: 1xAHRO84GxI2q5-wPm5lo8V7ojsf3OecA
+--------------------
+Name: Copy of 2016 NSF REU Author Guide.pdf
+Size: 0.28 MB
+ID: 11RtfZjzRrhtB28Mq7iC0JahD-EL0GJOO
+--------------------
+Name: Copy of ReportTemplate_2016.pdf
+Size: 0.48 MB
+ID: 1TMSiG8_DYXt8inyhlM6jtdK31exGyxO9
+--------------------
+Name: Copy of Fahrenfeld Frontiers ARGs in recycled water.pdf
+Size: 2.34 MB
+ID: 1EIaL9Q7RMeE3STkC-oxYLoJkUoRWLgYN
+--------------------
+Name: Copy of 2016_mohan_hannah_brian_john_jason.pdf
+Size: 2.24 MB
+ID: 149uyunz0-t0LNSUGu-UihV4wZthkjQ3s
+--------------------
+Name: Copy of Dietrich Sain Griffin JAWWA 2014.pdf
+Size: 4.75 MB
+ID: 1-vqhycGtvzse81ti9afR26wEDa3yUPIh
+--------------------
+Name: Copy of Fahrenfeld et al Microbial Ecology.pdf
+Size: 1.29 MB
+ID: 11NnLTqnp-fbUX26fSLxH3YXfcj68LEnB
+--------------------
+Name: Copy of Alumni Survey for VT REU on Interdisciplinary Water Science & Engineering.PDF
+Size: 0.76 MB
+ID: 1ZmfY5XYrYHT_2YGgEkmmP9_ur-0yek4i
+--------------------
+Name: Copy of Initial Report_REUAlumni_Survey.pdf
+Size: 0.14 MB
+ID: 1GwSgY3M6hck57koz_JxRaqla6fJ2N5c0
+--------------------
+Name: Copy of VT REU survey draft.pdf
+Size: 0.13 MB
+ID: 1XAslIEeJpWpQRUfCcPvQg80zVeKKu7ry
+--------------------
+Name: Copy of Global Engineering Competency in Context.pdf
+Size: 0.60 MB
+ID: 1KOQOMpcsOh-uMqlparW63akpn4e9uNwp
+--------------------
+Name: Copy of Global Perspective.pdf
+Size: 0.84 MB
+ID: 1QoYVhQd1TLJ0SmTolHRKAMiKrg_7A35m
+--------------------
+Name: Copy of WhatDoesitMeantobeGCJSIEFall06.pdf
+Size: 0.30 MB
+ID: 1thRP87RNwru5revf3CcE3cZOVARY6-fA
+--------------------
+Name: Copy of DefiningDevelopingAssessing_GlobalCompetence_inEng.pdf
+Size: 0.08 MB
+ID: 1BwHh0iPWI8e6A5a8gxq_O7HnkfJv7inQ
+--------------------
+Name: Copy of Stone_et_al-2014-Nursing_&_Health_Sciences.pdf
+Size: 0.16 MB
+ID: 12XKgQwgfPyPdqyoi8a-1rsmYVvRzQ4Z1
+--------------------
+Name: Copy of Journal of Studies in International Education-2001-lee Olson-116-37.pdf
+Size: 0.12 MB
+ID: 1H529vIYrvRmrBcpWCdZF33KzkATxRnzG
+--------------------
+Name: Copy of REU_proposal_2016_final.PDF
+Size: 0.68 MB
+ID: 1DhvYgKYjiBQI1jbo7NoWiE8PAkjwdy0f
+--------------------
+Name: Copy of REV2017_Online+Engineering+%26+Internet+of+Things.pdf
+Size: 222.97 MB
+ID: 1iql1nix4YKxFfs-aiLsTvsm6Uq9tDiuf
+--------------------
+Name: Copy of Lohani_JAWRA_paper.pdf
+Size: 0.78 MB
+ID: 1ezpc8RaYUylDmZym9EJooml8w36EQPoo
+--------------------
+Name: Copy of Lohani_IJEE_paper.PDF
+Size: 1.73 MB
+ID: 1vQGbGFyE7Wfrr3P5iuantJlArYdpaXf6
+--------------------
+Name: Copy of Lohani_AEE_paper.PDF
+Size: 1.99 MB
+ID: 1XimdbC8-SMSXpU6RDXNcVHDCgzXkYLSy
+--------------------
+Name: Copy of 2012_Nov_TUES_VWCC.pdf
+Size: 5.78 MB
+ID: 1HxJ_pN-GYimc-xI25KkNLpO0UVyueNGK
+--------------------
+Name: Copy of 2013_11_LEWAS_Innovation_Cycle_Slides_Draft_Nov07.pdf
+Size: 4.07 MB
+ID: 1LwtCGEH3Z4zMAv2a8x9jltqVYW8rsM-o
+--------------------
+Name: Copy of 2013_11_LEWAS_Innovation_Cycle_Slides_Draft.pdf
+Size: 4.00 MB
+ID: 1_BixC9STxsMLa5Jj1EjlDxygVTJdo0np
+--------------------
+Name: Copy of 2017_08_04_overview_LEWAS_GermanStudents.pdf
+Size: 5.16 MB
+ID: 11wZ2RqLKP7c2W_HDWQYiOVylijAgFnKy
+--------------------
+Name: Copy of 2015_04_ENGE_Brogan.pdf
+Size: 2.20 MB
+ID: 13oRPSupnp00RqnMTkTuTizjSPp07JqKZ
+--------------------
+Name: Copy of 2014_06_ASEE_PIRMS.pdf
+Size: 1.95 MB
+ID: 1ZnheoHCOOclt7qC5Jpo8iybhnovXicW6
+--------------------
+Name: Copy of 2018_04_09-LEWAS Flow Diagram.pdf
+Size: 0.13 MB
+ID: 1KWx3q62OT9OyrNV0GsIZdMJhH4XivU9t
+--------------------
+Name: Copy of xl-conference-CS-poster.pdf
+Size: 1.79 MB
+ID: 112U4daTqDXDY2VUchsum45EPWjJMEcew
+--------------------
+Name: Copy of Electrical Poster Final1.pdf
+Size: 1.04 MB
+ID: 1V7lI61ZYVP68FmS73Rd8nHcsJJ6vR9BN
+--------------------
+Name: Copy of VR Poster Final.pdf
+Size: 0.91 MB
+ID: 1VEymAhTCd-e1rB3XCKPbl1LpkR0vgk7p
+--------------------
+Name: Copy of EX_Civil_2018Poster_final.pdf
+Size: 2.51 MB
+ID: 1ufeWWviQSqYT2F7ho7GnL0J5BLthhl1v
+--------------------
+Name: Copy of lewas_data_flow_wo_logo_EL_FINAL_v2.pdf
+Size: 1.25 MB
+ID: 1AD9ivSGCZwe0WxbEvqGHQJ2nU2LAFzcs
+--------------------
+Name: Copy of lewas_data_flow_w_logo_EL_FINAL_v2.pdf
+Size: 1.43 MB
+ID: 1sWgp8cHgqiWTGyFSFoQNGbaYeO5jOSr2
+--------------------
+Name: Copy of ScienceFairBrochure.pdf
+Size: 1.08 MB
+ID: 1G8tye7K01uys_UNKjEKRmb3pwIdiMFdD
+--------------------
+Name: Copy of Christenson 2001.pdf
+Size: 0.45 MB
+ID: 1KfQYoYWsquUExl-mjk_AtRxU2_R75AC1
+--------------------
+Name: Copy of Turbidity as a proxy for TSS.pdf
+Size: 0.44 MB
+ID: 1CgyWpmyiPo_sDur3CyPvPrrr8Pbptlin
+--------------------
+Name: Copy of Standard Methods 2540A-G.pdf
+Size: 54.17 MB
+ID: 1YrxEXic_oLnTYCWiNVpTV8wSvWE-Jo6J
+--------------------
+Name: Copy of Project&Report_Paper_Gozum_FinalVersion.pdf
+Size: 1.45 MB
+ID: 1CQf3q5VCeVEBIVqFXjhTtjgdEmzg40Aa
+--------------------
+Name: Copy of Illicit_Discharge_Tracking_Tayl.pdf
+Size: 0.50 MB
+ID: 12AAH_7cYlmOdCDy-bhuoz0wVwMaPyg3B
+--------------------
+Name: Copy of TaylorTracerExp.pdf
+Size: 0.20 MB
+ID: 1HcObCmSvU1uGAQ8nMxuMgSUJNc2Co8M1
+--------------------
+Name: Copy of tracer5graphs.pdf
+Size: 0.30 MB
+ID: 1Csr8U4l2poXirDVAQM1qRM7ys_Ce1h9Y
+--------------------
+Name: Copy of Rieckermann - 2005 - Dispersion coefficients of sewers from tracer experiments w Appendix.pdf
+Size: 0.98 MB
+ID: 1DvePiHtgNEzO5vQYdMy7omzjn_ELbAB_
+--------------------
+Name: Copy of Pitt - 2004 - Illicit Discharge Detection and Elimination.pdf
+Size: 9.31 MB
+ID: 1pwu-VM7ETpodkSXpV_L5tVHh1lwq074H
+--------------------
+Name: Copy of Bender - 2016 - Development of Effective Procedures for Illicit Discharge Risk Mapping in Roanoke, VA and Fairfax County, VA.pdf
+Size: 1.62 MB
+ID: 1AaSGTTXrzHVUtUV2tnN2KNO7JwvDupuW
+--------------------
+Name: Copy of Wallis et al. - 2017 - Solute transport routing in a small stream.pdf
+Size: 0.72 MB
+ID: 1aq2zVSKMG5fFM3I_XWSaidgOs3IMzUOP
+--------------------
+Name: Copy of Wallis, Manson - 2004 - Methods for predicting dispersion coefficients in rivers.pdf
+Size: 0.16 MB
+ID: 11KPGz-8Ls7Rv90K0Kz7YgWYIoLPIOo1g
+--------------------
+Name: marcedwards-lectureflyer-final.pdf
+Size: 0.34 MB
+ID: 1m0hgiVme_J_e_TH4ny4hTlwOtZjk9Jfx
+--------------------
+Name: RET17ResultsSlide.pdf
+Size: 0.75 MB
+ID: 1JbJ1SjwEIiD-p_oFSEzxQQLGvBbLjzzK
+--------------------
+Name: sontek+flowtracker+manual.pdf
+Size: 1.64 MB
+ID: 0Bw8WSyDfFnsYbHZnS3E0T2RObVE
+--------------------
+Name: RET Informed Consent Interview-IRB Revised.pdf
+Size: 0.48 MB
+ID: 12oHxInb9WjYLIone_cmHrEsfuyC8gLhT
+--------------------
+Name: Copy of DelineationNotes.pdf
+Size: 0.15 MB
+ID: 1tb0gR9RghlKJ4i3yItRckr2qtjskadqf
+--------------------
+Name: Copy of History of Hydrology.pdf
+Size: 3.38 MB
+ID: 1xaxzDRctnOX6gPl0cuSe-8h9wybRmn9k
+--------------------
+Name: Copy of Map2.pdf
+Size: 1.45 MB
+ID: 1p-AwwhWxG5p4ZhQ6k18opfJx9rjN72nV
+--------------------
+Name: Copy of Time of Concentration.pdf
+Size: 1.17 MB
+ID: 1iKbKNg-C7Mc4l5nXV0NqULH1uETRCGtX
+--------------------
+Name: Copy of Map1.pdf
+Size: 1.21 MB
+ID: 1uFqf3QK6IhqXfH2DLkGPPm9oTUJYsbci
+--------------------
+Name: Copy of Argonaut-SW_Principles.pdf
+Size: 0.38 MB
+ID: 1VlAYul_qyH9oqfLDQYSbG6yr057S9wbW
+--------------------
+Name: Copy of Vaisala Weather Station.pdf
+Size: 3.24 MB
+ID: 1koHzLxO7GMuhhhBBIo__DC_6QqoGJg1E
+--------------------
+Name: Copy of tr55_Manual_Ch1-3.pdf
+Size: 0.42 MB
+ID: 1s7UwQyCePw0rbwZTh0nRNztnepTaRo-2
+--------------------
+Name: Copy of HydrographNotes.pdf
+Size: 0.46 MB
+ID: 1zIRRt0kNU47ctGucDnnhScTCDzc1juLs
+--------------------
+Name: Copy of TemperatureSensingWithRaspberryPi_InstructionManual_students .pdf
+Size: 1.45 MB
+ID: 14qqRo8ocWoNF4yNBZdM-VbmZ-ZwPsUh2
+--------------------
+Name: Copy of Stormwater Policy.pdf
+Size: 3.17 MB
+ID: 1OCX6t35RbVIvkS9HNU2j8Usf-gdxT7u_
+--------------------
+Name: Copy of Copy of Doyle, Bernhardt - 2011 - What is a stream.pdf
+Size: 2.01 MB
+ID: 1-hRu_5fWE-DWtYrdgCzWa0YF7emXqRkA
+--------------------
+Name: Copy of Copy of Leopold - 1968 - Hydrology for Urban Land Planning.pdf
+Size: 1.38 MB
+ID: 19QvKHATFxa6uirAEf4IM4dFlqhfQBVml
+--------------------
+Name: Copy of Copy of Hardin - 1968 - The Tragedy of the Commons.pdf
+Size: 1.42 MB
+ID: 1R0sHMdkrnOXOhS3NnzLbp_LL1hmVykl0
+--------------------
+Name: Copy of Virginia Stormwater Regulations.pdf
+Size: 2.08 MB
+ID: 18D0ln0PGEW8zpMEOYnblYCvaMG4usjBS
+--------------------
+Name: Copy of Copy of Walsh et al. - 2005 - The urban stream syndrome current knowledge and the search for a cure.pdf
+Size: 0.64 MB
+ID: 1aAHahpZKX6maV_t3k1cwQHLE5IqxCqMe
+--------------------
+Name: Copy of Nutrients and Water.pdf
+Size: 0.03 MB
+ID: 1h3_hbywAzd1fK4k9UAALhvjlAk6FVpQZ
+--------------------
+Name: Copy of Grab sampling sediment activity.pdf
+Size: 0.02 MB
+ID: 1MHEJeHBQSzPBThGr25BwzSEp3CUp2acV
+--------------------
+Name: Copy of pH.pdf
+Size: 0.06 MB
+ID: 10LSdqmsyJXcmoUCSTdnC6R0jVORlzVim
+--------------------
+Name: Copy of Water Quality II.pdf
+Size: 1.77 MB
+ID: 1oyLx8o82Zce9-MysaTCWJWpUCUlGp3cN
+--------------------
+Name: Copy of Aguilar, Dymond - 2015 - Evaluation of Variability in Response to the NPDES Phase II Stormwater Program in Virginia.pdf
+Size: 1.85 MB
+ID: 1Z2cj_mJKZ7oLHDeQHwdZfp00MpXMgNjl
+--------------------
+Name: Copy of Water Quality I.pdf
+Size: 1.35 MB
+ID: 1mBguYsKU8dpbgkFHDohr6Zf4OfSxb5Ti
+--------------------
+Name: Copy of low-cost-water-monitoring-kit-manual.pdf
+Size: 0.34 MB
+ID: 1SNpq-o_TXkZ6sC7MT2PvR0u-N5tCTuE9
+--------------------
+Name: Copy of Hydrolab_MS5_Manual.pdf
+Size: 5.03 MB
+ID: 18gTOkfM5fyHOHSgV_4r9ZhGwNtuZc46b
+--------------------
+Name: Copy of SOP_Hydrolabs_5.1.14_Rev0.pdf
+Size: 1.20 MB
+ID: 178mwJyQ6lJbZTkn_hfzyDWTucxqTRpnu
+--------------------
+Name: Copy of Water Quality Measurements.pdf
+Size: 1.76 MB
+ID: 1rtPZk5fZ-H0v5ZUiN0H0ZM57X3lmc3fj
+--------------------
+Name: Copy of (TSS & TDS) Standard Methods 2540A-G.pdf
+Size: 54.17 MB
+ID: 1xwnidUDPPi8s3t9G0JVBPNnAdRU3AKRW
+--------------------
+Name: Copy of Aronhalt.pdf
+Size: 1.39 MB
+ID: 13KiSR1_07e5ERaHKt5mLNidwYLiGMkB3
+--------------------
+Name: Copy of In Class - ORI.pdf
+Size: 0.99 MB
+ID: 17h-Btz5bex5Ips88nqHFXmsP-lzKh3Xx
+--------------------
+Name: Copy of Virginia Modified Method.pdf
+Size: 0.34 MB
+ID: 1lEx7AnRYefgHT56eUgy_6XhUtDzzFHHR
+--------------------
+Name: Copy of Aquatic.pdf
+Size: 1.16 MB
+ID: 1ZD_2uR0kgy97ic5gMAAPBGjbP00jNfM9
+--------------------
+Name: Copy of Stream Condition Index for Non-coastal streams.pdf
+Size: 3.61 MB
+ID: 1EGA_b8WzP-R6p5OyktPL03f46vFmV7VU
+--------------------
+Name: Copy of Rachelle Rasco.pdf
+Size: 0.19 MB
+ID: 1PKQ0u7RRM9SqIfdhClncpGmV5i6Dig22
+--------------------
+Name: Copy of Socolofsky, Jirka - 2004 - 3 . Mixing in Rivers Turbulent Diffusion and Dispersion.pdf
+Size: 0.37 MB
+ID: 1t2WXC7Sj6RcVzZm8Ruocm1yzfIHqCLmO
+--------------------
+Name: Copy of Taylor - 1954 - The Dispersion of Matter in Turbulent Flow through a Pipe.pdf
+Size: 3.06 MB
+ID: 1iDe5OXzeUnHC1e3YnefM4-GA4ZsPQ5ql
+--------------------
+Name: Copy of Pitt - 2004 - Illicit Discharge Detection and Elimination.pdf
+Size: 9.31 MB
+ID: 1nOg8CJjMVBb4ZKny5rjspOkllrBlsCgf
+--------------------
+Name: Copy of Rieckermann - 2005 - Dispersion coefficients of sewers from tracer experiments with Appendix.pdf
+Size: 0.98 MB
+ID: 1opXq5dSzm53C8iuPEkbwXUAqOuck2Ba0
+--------------------
+Name: Copy of Ani et al. - 2009 - Development, calibration and evaluation of two mathematical models for pollutant transport in a small river.pdf
+Size: 0.73 MB
+ID: 10oQdNdnHBgZLc4I9j5Ves8ORnTI9WvBF
+--------------------
+Name: Copy of Alizadeh, Ahmadyar - 2017 - Improvement on the Existing Equations for Predicting Longitudinal Dispersion Coefficient.pdf
+Size: 0.51 MB
+ID: 1VGqBnjnjX9zBgtVKO5rhRSxDiFI10Iwk
+--------------------
+Name: Copy of Whitehead, Williams, Hornberger - 1986 - On the identification of pollutant or tracer sources using dispersion theory(2).pdf
+Size: 0.55 MB
+ID: 1L9cleng7Wv32HnaAOGfsz-UuVV9IoclV
+--------------------
+Name: Copy of Wallis, Manson - 2004 - Methods for predicting dispersion coefficients in rivers.pdf
+Size: 0.16 MB
+ID: 1-mjxGjRkhvw0IGUHwWYt9CUPXdas_B2r
+--------------------
+Name: Copy of Rasco_timesheets_week_1_2_3.pdf
+Size: 0.02 MB
+ID: 1zGG8_k934zO7ce4c7vryfAbI1n9u3CgV
+--------------------
+Name: Copy of VWRRC_StroublesCreek_Research.pdf.crdownload
+Size: 6.35 MB
+ID: 1fiQYlZGlGPga7gVh58LMVDBHqx35f1gv
+--------------------
+Name: Copy of Environmental Statistics Notes.pdf
+Size: 7.89 MB
+ID: 1CS9TgcPv6ix0rH1zLd-79oV66PY4Nr-C
+--------------------
+Name: Copy of Probability Distributions.pdf
+Size: 0.87 MB
+ID: 1Yr4MstmPHtOZ8tJv9oTeJ1bEBOtVPg_G
+--------------------
+Name: Copy of SoC-QuickScoringDevice.pdf
+Size: 0.27 MB
+ID: 1B_Xcv7zjl1K-JVtxLF_G0g8NYbnehr-H
+--------------------
+Name: Copy of SoC-Profile.pdf
+Size: 0.10 MB
+ID: 1w_r6adsak-3ZEXPxHLBiEv9FPFoPPESm
+--------------------
+Name: Copy of SoC-QuickScoringDevice-fillable.pdf
+Size: 0.19 MB
+ID: 1OnMwYPcbqD4xAdkyJyQ-Xm3ioqQ6NErF
+--------------------
+Name: Copy of SOCQ-075-Graph-and-Print.pdf
+Size: 0.22 MB
+ID: 19J19akKK9fIkHqwUJTtIyH1ddr8AJ1Io
+--------------------
+Name: Copy of SoCQ-075-SAS-Program.pdf
+Size: 0.03 MB
+ID: 1fSYiyR4wmVVzJw6lnqFJKdLNMhg4JOS8
+--------------------
+Name: Copy of SoCQ-final.pdf
+Size: 0.05 MB
+ID: 1_4y2kjge_DFbIsGgqGxCPRCHpj1YWgrd
+--------------------
+Name: Copy of SoCQ-075-Test-Output-from-SAS.pdf
+Size: 0.04 MB
+ID: 16XlhhqJFpDGlv1-80SCPBzBMmvCEI2pn
+--------------------
+Name: Copy of lou_manual_201410_blank.pdf
+Size: 2.88 MB
+ID: 1taUpWCe2Dw8va2DvTTSpQ3TG5Mji6k8U
+--------------------
+Name: Copy of LOU Interview Protocol.pdf
+Size: 0.27 MB
+ID: 19Tll63dBzUjyIwb1kg7jGmdGLMOcCtZb
+--------------------
+Name: Copy of lou_manual_201410.pdf
+Size: 2.91 MB
+ID: 17L5gGEc3fHpu95L83P7s7Ja9H64FjWuV
+--------------------
+Name: Copy of socq_manual_201410.pdf
+Size: 1.74 MB
+ID: 1N3Q8VRdxjNe_P6ZOz06owQv5DHMpN8DN
+--------------------
+Name: Copy of disertation.pdf
+Size: 0.68 MB
+ID: 1uetklHG3n9NlHnayjrhP7LFW-NULSRL0
+--------------------
+Name: Copy of socq_manual_201410_blank.pdf
+Size: 1.74 MB
+ID: 1UB9xZ41ONlNt8YnbOHT7X2zTLo4Rv_wh
+--------------------
+Name: Copy of Concerns Based Assessment Model.pdf
+Size: 0.33 MB
+ID: 13TTZsKWE0uGkTuDXf6gI0pqT7YxZ8Y65
+--------------------
+Name: Copy of Anderson-1997-Curriculum_Inquiry.pdf
+Size: 0.21 MB
+ID: 1QY2o4pQwvAIBqGeVkRElwkcB2BA4OkDQ
+--------------------
+Name: Copy of ASEE use of Concerns Based Assessment Model and more.pdf
+Size: 0.18 MB
+ID: 16ZBAMc-7-K2-HxuLGo7MbchlPf5-CnCo
+--------------------
+Name: Copy of etd2.pdf
+Size: 0.68 MB
+ID: 1qSRjuLe7wykgb2NGkAUZU4WDSQ5k5Oma
+--------------------
+Name: Copy of taking-charge-of-change-2014.pdf
+Size: 1.03 MB
+ID: 1TQmW8qzeIQLaGrbz3oVRs8t7iNCYh7cL
+--------------------
+Name: Copy of RTQ1361.pdf
+Size: 0.19 MB
+ID: 1BsDVAG1Zn-xfudTjR7Y9uKdzwei-KIOd
+--------------------
+Name: Copy of LOU Interview Protocol.pdf
+Size: 0.27 MB
+ID: 1xlH23Co1JbtyZF7bo4pAEq-lAmOWcc8P
+--------------------
+Name: Copy of major research trends in collaborative concept mapping CCM.pdf
+Size: 0.11 MB
+ID: 1M3OLuScEXFjFATQ5ypzogf0BgJROOHte
+--------------------
+Name: Copy of Science discourse through collaborative concept mapping new perspectives for the teacher.pdf
+Size: 1.48 MB
+ID: 1uxCJ4Bc6D3eCfLxUzkOsCUnJqSTzH5IM
+--------------------
+Name: Copy of Reliability Validity and Factor Structure of the Creative Achievement Questionnaire.pdf
+Size: 0.25 MB
+ID: 1-CumHKlB3TPQLGSmLyd7IJB-vC-UEtE1
+--------------------
+Name: Copy of ASEE RET program evaluation 1 year after.pdf
+Size: 0.90 MB
+ID: 1y-jFMyaDu0kdQBFcrC8TsG7lu17E_98L
+--------------------
+Name: Copy of ASEE RET link to teacher practice and student achievement.pdf
+Size: 0.37 MB
+ID: 1TahtJWKC0d_6bkXlvCUkrIc-qgZVY3mS
+--------------------
+Name: Copy of ASEE Lessons learned from first year RET.pdf
+Size: 0.34 MB
+ID: 1yupCykUfG1X26NnliuviBe2gKysOGZ4O
+--------------------
+Name: Copy of Collaborative Learning Tools Theory APA standards +++.pdf
+Size: 0.12 MB
+ID: 1Vdo-znhcy6-VrGJL8wxaSiDSbuX8ppVP
+--------------------
+Name: Copy of ASEE Improvements in year 2 RET.pdf
+Size: 0.22 MB
+ID: 1NY4WJyhtySaiGcAB_u4_dLfpp5a3KHMp
+--------------------
+Name: Copy of RET Effects on Confidence in teaching STEM.pdf
+Size: 0.23 MB
+ID: 1ldPv_n7v8Vb-fotJtgkaOAlra5ElzDri
+--------------------
+Name: Copy of participation RET impact on perceptions and efficacy to teach engineering ASEE.pdf
+Size: 0.18 MB
+ID: 181CBz0W5tJHY-aorcItfcYkjpqBC64p_
+--------------------
+Name: Copy of Impact of RET Teacher-Developed Curriculum Units on Classroom Exp.pdf
+Size: 1.30 MB
+ID: 1DZN-oJXX2haQs85acf5YX53P-MCZ23nY
+--------------------
+Name: Copy of RET Informed Consent Interview.pdf
+Size: 0.47 MB
+ID: 14i6MTndikYX0B35voU1U4UNGysFHHJqs
+--------------------
+Name: Copy of VT IRB-16-241 Approval Letter.pdf
+Size: 0.42 MB
+ID: 1hgRw14jX5GDdD_4JcSP24RbWf7vZmcM1
+--------------------
+Name: Copy of RET Informed Consent Focus Group.pdf
+Size: 0.47 MB
+ID: 16awqQbFAsk5uyTsCda64C-phsjYlXX_G
+--------------------
+Name: Copy of AutosamplerBasics.pdf
+Size: 8.47 MB
+ID: 1r3S9vrGgLODCVzWIizwsBjOLsbsM8iT5
+--------------------
+Name: Copy of Ryan_Boufadel_2006.pdf
+Size: 0.37 MB
+ID: 1h8lHZkIhe2AIDeHNvUM5tNvDAqgyifag
+--------------------
+Name: Copy of Ryan_etal_2011.pdf
+Size: 1.07 MB
+ID: 1QVpSuM6v8q9x6_ceEkSrP_9f68hpmFwZ
+--------------------
+Name: Copy of Striebel, Daub, Herrmann - 1994 - A sampling device for measuring physical and chemical characteristics of urban street runoff.pdf
+Size: 0.48 MB
+ID: 1Uerhu8hp1w55Sde-xljbE60ud9a_Nu2S
+--------------------
+Name: Copy of Clark_etal_2008.pdf
+Size: 0.27 MB
+ID: 17cNW6F-Bp_JNIXlUzbnN02q9VF4eT-r1
+--------------------
+Name: Copy of Tang_etal_2013.pdf
+Size: 0.58 MB
+ID: 1AIx4BQPb0qm6BWHyOeAD4-V1ciye62UM
+--------------------
+Name: Copy of Veach_Bernot_2011.pdf
+Size: 1.24 MB
+ID: 1MToVHBqvfgfJJyU4MPJnFK73dUcFB-1w
+--------------------
+Name: Copy of Wong_etal_2006.pdf
+Size: 1.82 MB
+ID: 1Yp8i6D4be79GAkIY0fFWZFEj6zVHUTXc
+--------------------
+Name: Copy of Nominee Statement Rubric.pdf
+Size: 0.21 MB
+ID: 106dvaUJb8BPjTDvgXceab38Ww5tjV6g5
+--------------------
+Name: Copy of PI Recommendation Rubric.pdf
+Size: 0.21 MB
+ID: 14GR8mMT0VEciRTfzuuYiKlSCh5Gbt6UI
+--------------------
+Name: Copy of ULT vs. ADCP Flow Graphs 1-28-2017.pdf
+Size: 1.38 MB
+ID: 1fVqG7UvZv5u4LxwAEWHNtMaRULmMKdTV
+--------------------
+Name: Copy of Argonaut-SW_Principles.pdf
+Size: 0.38 MB
+ID: 1Zqv4i25aVE11425UJApJoeTbOyYGfVej
+--------------------
+Name: Copy of Rogers_MR_T_2013_3.pdf
+Size: 3.36 MB
+ID: 1aM76PkexsbeE6EMjL9JWl8YRmrifcpcW
+--------------------
+Name: Copy of LEWAS Flowrate Analysis Procedure.pdf
+Size: 0.81 MB
+ID: 1tiMi56Qo9XFnJZrDKH1rkpcqfc1SBTV6
+--------------------
+Name: Copy of 1-31-15 to 2-2-15.pdf
+Size: 0.24 MB
+ID: 1S0r5AFtwn_JT1fsy2xt8feiDHDPqIC1M
+--------------------
+Name: Copy of 4-19-13 to 4-20-13.pdf
+Size: 0.41 MB
+ID: 1CmUlRiwWs2BIn-HmSywUVEnvSK2Wug-6
+--------------------
+Name: Copy of 5-4-13 to 5-10-13.pdf
+Size: 1.93 MB
+ID: 1bb8KX5pPWAItnJPeoNeXThFZpghSSS3o
+--------------------
+Name: Copy of 3-1-15 to 3-7-15.pdf
+Size: 0.51 MB
+ID: 16oRcrJSwpi8StPkY3qzDR0_a59Uutg0c
+--------------------
+Name: Copy of 6-15-13 to 6-21-13.pdf
+Size: 1.71 MB
+ID: 1bTIpkUyjRIsyfl3-3Oypz91jDCJURIEG
+--------------------
+Name: Copy of 5-16-13 to 5-18-13.pdf
+Size: 0.47 MB
+ID: 1HSGCS2ZWaXn086BG6r5CzU9r9zXwqC_y
+--------------------
+Name: Copy of 7-11-14 to 7-14-14.pdf
+Size: 0.31 MB
+ID: 1xTeeeeBCQjjp1QBIZEJWair5NiouKKkb
+--------------------
+Name: Copy of 6-29-13 to 7-5-13.pdf
+Size: 1.76 MB
+ID: 1fbtP12GrWHlpJm7dmIO9ZqfsDiopLx8I
+--------------------
+Name: Copy of 6-23-13 to 6-28-13.pdf
+Size: 0.89 MB
+ID: 1CxDgQx_BHpvMkj7BVUduTzB4LMSDKPEv
+--------------------
+Name: Copy of 9-14-12 to 9-24-12.pdf
+Size: 2.35 MB
+ID: 14W6a1DVbZDZi_Y_rYTUcOLNxakd21F-k
+--------------------
+Name: Copy of ICTAS_Order_Form_filled_Feb2015.pdf
+Size: 0.07 MB
+ID: 1j8lvoaSRefoFoHK3jzLwIx4evpIrGSZE
+--------------------
+Name: Copy of Online Orders from 15June2016 to 3Oct2016 .pdf
+Size: 0.30 MB
+ID: 1parBNrVoFwCaHbNXNbIWu5J-YT8xZVJJ
+--------------------
+Name: Copy of Online Orders from 6Nov2014 to 4May2016 .pdf
+Size: 0.57 MB
+ID: 1UdSC6vqmY_NG2MchjPaQ5q5Q7oDPjB4m
+--------------------
+Name: Copy of LEWAS Flowrate Analysis.pdf
+Size: 0.81 MB
+ID: 1HscepCUN3xbtsjGw8y9K9ols-N-vP3kE
+--------------------
+Name: Copy of SOP_Hydrolabs_5.1.14_Rev0.pdf
+Size: 1.20 MB
+ID: 15C0EM8yNnxFXiBFbWbWxuwAApekqSvQn
+--------------------
+Name: Copy of HACHSRVESTX_EMAIL_72758606_1.pdf
+Size: 0.03 MB
+ID: 1BVwzUEptaXZWGnxkJvA7bHUz88eXu4pz
+--------------------
+Name: Copy of LEWAS Flowrate Analysis.pdf
+Size: 0.81 MB
+ID: 1ctiTS6nDwoJNvs9b84n7eHYM-mikRjq1
+--------------------
+Name: Copy of Water Main Break 7-23-15.pdf
+Size: 0.28 MB
+ID: 1M3gURTYYc5xT6yuFcmO34v_mx-BvzxXr
+--------------------
+Name: Copy of Water Main Break 8-18-15.pdf
+Size: 0.16 MB
+ID: 1p8Z6vc8kGDdKakkdk6OEu0LWcIwn7WpL
+--------------------
+Name: Copy of Suspected Illicit Discharge from Outfall 08-2.pdf
+Size: 0.71 MB
+ID: 1itZw8BVnc1ecEn9Vlf6BTMZIPLI1ZTVP
+--------------------
+Name: Copy of CEE5734S15_LEWAS_posttest.pdf
+Size: 0.32 MB
+ID: 139Up8W5qUmxQorZgy8v_sVnWJlsHPKoW
+--------------------
+Name: Copy of EffectivenessOf_OWLS_Report_13April2016.pdf
+Size: 0.04 MB
+ID: 1q9tPO9D323MTq_qEOT2OqnA-yEWHs5tN
+--------------------
+Name: Copy of Effectiveness of OWLS.PDF
+Size: 0.21 MB
+ID: 1UE83wAlFG_Wejcn2gyWyJIouvJXOt9Yn
+--------------------
+Name: Copy of Effectiveness of OWLS_SurveyQuestions.PDF
+Size: 0.30 MB
+ID: 18SfNy_bbADJaSgrGqfbveM-uxuvHdR-M
+--------------------
+Name: Copy of Initial_Report_On_24April2016.pdf
+Size: 0.04 MB
+ID: 161Ncosc1qf3_FQhzX7W0Sq7KLGvwGlnM
+--------------------
+Name: Copy of Initial_Report.pdf
+Size: 0.03 MB
+ID: 1K0e6ROfCyOHRpgshfIWNg5Ftsjt47_dI
+--------------------
+Name: Copy of TemperatureSensingWithRaspberryPi_InstructionManual_students .pdf
+Size: 1.45 MB
+ID: 183KrPrUJIskxDxrmp_hVcV55FwHlwAO5
+--------------------
+Name: Copy of TemperatureSensingWithRaspberryPi_InstructionManual_students .pdf
+Size: 1.45 MB
+ID: 1AMMixrEeDIY0gfp0gQYhzSOqlUtHYo9l
+--------------------
+Name: Copy of LEWAS_assignment_specifications_official.pdf
+Size: 0.43 MB
+ID: 1JmR2Fmg3UVxynTz8UZF0frtEgHYHysf5
+--------------------
+Name: Copy of LEWAS_assignment_key_official.pdf
+Size: 0.45 MB
+ID: 1V5OhbqbGs0Mb9NZWTZcCWqp6hCWNP6Aj
+--------------------
+Name: Copy of Layerstogether.pdf
+Size: 0.13 MB
+ID: 1S4gat-uJsQcFOm8HRW-S8Qnyh7eGUdqG
+--------------------
+Name: QuickstartGuide_fluid.pdf
+Size: 0.09 MB
+ID: 19cx8F5eeXEv32KJlbDlCJXs6ywN78l5S
+--------------------
+Name: Sood_ pulaskicounty_HS.pdf
+Size: 0.21 MB
+ID: 1bgNOUkf1Kyjurh2xIe8OR9LKSzzlsN-3
+--------------------
+Name: madden_cavespring_HS.pdf
+Size: 0.13 MB
+ID: 1c2OoUnMXQi8w2xa2zFhPIjsyqv7KfXnE
+--------------------
+Name: NSF REU RET Impacts Session Lohani Basu Smith.pdf
+Size: 7.47 MB
+ID: 1gIOfyxQNYPZGL0bN1XQzLsW4yjN0PmHE
+--------------------
+Name: lou_manual_201410.pdf
+Size: 2.93 MB
+ID: 0B_56Cdb8fwlbYkwxd3ZfczUxQXM
+--------------------
+Name: MATLAB Analysis Activity Instructions .pdf
+Size: 0.42 MB
+ID: 0Bw8WSyDfFnsYY1l1ZEZVZTdhRUU
+--------------------
+Name: ForestVision Trunk Shader.pdf
+Size: 0.61 MB
+ID: 16J6ksSVGsZe-HsA_P3pmZ0s4o_SIqut-
+--------------------
+Name: ForestVision Basic Tree Construction and Overview Tutorial.pdf
+Size: 1.03 MB
+ID: 16PvPv-oDExOCoSwBTlrhy3w9YFN3hw4R
+--------------------
+Name: InteractionSystem.pdf
+Size: 0.37 MB
+ID: 0B_56Cdb8fwlbVldvQVIxZkJNblU
+--------------------
+Name: ForestVision Trunk Shader.pdf
+Size: 0.61 MB
+ID: 0B_56Cdb8fwlbOW5qVTc5VkVHODg
+--------------------
+Name: ForestVision Basic Tree Construction and Overview Tutorial.pdf
+Size: 1.03 MB
+ID: 0B_56Cdb8fwlbVjNxODNWVEpFMWc
+--------------------
+Name: HologramEffect_Documentation.pdf
+Size: 0.30 MB
+ID: 0B_56Cdb8fwlbZkMzR3VqLUpXM1U
+--------------------
+Name: quickstart.pdf
+Size: 0.92 MB
+ID: 0B_56Cdb8fwlbX2xfWEtlekEzSjQ
+--------------------
+Name: IDV_EULA.pdf
+Size: 0.17 MB
+ID: 0B_56Cdb8fwlbSkY5VnNOT1VGaWc
+--------------------
+Name: Readme.pdf
+Size: 2.26 MB
+ID: 0B_56Cdb8fwlbd1I1UUZicVl1T1E
+--------------------
+Name: quickstart.pdf
+Size: 0.92 MB
+ID: 1p-Ac0AUxKQfMqlXgvSemqTQ7fddxrQFl
+--------------------
+Name: InteractionSystem.pdf
+Size: 0.37 MB
+ID: 1Mbqa4cUbn-4PZr0x4fNe9aEmNzW1d3MZ
+--------------------
+Name: Readme.pdf
+Size: 2.26 MB
+ID: 1DsfVyjXXFuVxJrzRe6pyXZQcoPqtqvWI
+--------------------
+Name: IDV_EULA.pdf
+Size: 0.17 MB
+ID: 1ebFH8O7t3oV0f8Ra8g_v6zfDDMlcXiEA
+--------------------
+Name: HologramEffect_Documentation.pdf
+Size: 0.30 MB
+ID: 14C8o2HGP3p7W4RAnkYdIL-Tq59fNjiJk
+--------------------
+Name: RET_2017_Entry_Survey.pdf
+Size: 2.05 MB
+ID: 0B_56Cdb8fwlbTU5mY1ZZWWM5Wms
+--------------------
+Name: RET_Water ECubeG_Flyer2017a.pdf
+Size: 1.24 MB
+ID: 0B_56Cdb8fwlbaW9kbm9Yc0NBLTg
+--------------------
+Name: NSF RET_2017_Orientation.pdf
+Size: 0.07 MB
+ID: 0B_56Cdb8fwlbQXRPMTUyZ2hGSTg
+--------------------
+Name: LOU Interview Protocol.pdf
+Size: 0.27 MB
+ID: 0B_56Cdb8fwlbVmtPMkdWRlNTU1E
+--------------------
+Name: Reliability Validity and Factor Structure of the Creative Achievement Questionnaire.pdf
+Size: 0.25 MB
+ID: 0B_56Cdb8fwlbRzBKSG9JTTMtdlE
+--------------------
+Name: Significant Digits - Bevington.pdf
+Size: 0.85 MB
+ID: 0B_56Cdb8fwlbUVMyTzM3bDdnN2s
+--------------------
+Name: The Abstract.pdf
+Size: 0.01 MB
+ID: 0B_56Cdb8fwlbUUlPLUxsdFlrX0U
+--------------------
+Name: UNCERTANITY ANALYSIS.pdf
+Size: 0.10 MB
+ID: 0B_56Cdb8fwlbd1RMS0dZUTllYk0
+--------------------
+Name: disertation.pdf
+Size: 0.68 MB
+ID: 0B_56Cdb8fwlbekpnWFRGdzdiczA
+--------------------
+Name: etd2.pdf
+Size: 0.68 MB
+ID: 0B_56Cdb8fwlbSWMwTm9ZTDVKNlU
+--------------------
+Name: Learning_To_Teach.pdf
+Size: 3.91 MB
+ID: 0B_56Cdb8fwlbOXFNTGpuREtrblk
+--------------------
+Name: socq_manual_201410_blank.pdf
+Size: 1.74 MB
+ID: 0B_56Cdb8fwlbZ01oZ0FhbllaT28
+--------------------
+Name: socq_manual_201410.pdf
+Size: 1.74 MB
+ID: 0B_56Cdb8fwlbS3p6UzNBZ3MzVm8
+--------------------
+Name: lou_manual_201410_blank.pdf
+Size: 2.88 MB
+ID: 0B_56Cdb8fwlbMVFXZUM5enRid1E
+--------------------
+Name: RET_Proposal_Nov02_final.PDF
+Size: 0.34 MB
+ID: 0B_56Cdb8fwlbN0Y5SFVHOGZOb3M
+--------------------
+Name: ASEE RET program evaluation 1 year after.pdf
+Size: 0.90 MB
+ID: 0B_56Cdb8fwlbWVlVQklpakFOVXc
+--------------------
+Name: ASEE use of Concerns Based Assessment Model and more.pdf
+Size: 0.18 MB
+ID: 0B_56Cdb8fwlbeVRfZFQ0R0JmSUE
+--------------------
+Name: Anderson-1997-Curriculum_Inquiry.pdf
+Size: 0.21 MB
+ID: 0B_56Cdb8fwlbT2pua2FybnZNMkk
+--------------------
+Name: taking-charge-of-change-2014.pdf
+Size: 1.03 MB
+ID: 0B_56Cdb8fwlbTS1UcDl2RkpyRGc
+--------------------
+Name: Impact of RET Teacher-Developed Curriculum Units on Classroom Exp.pdf
+Size: 1.30 MB
+ID: 0B_56Cdb8fwlbQ09lQjBSdG9KMTQ
+--------------------
+Name: NSF REU_2017_Orientation.pdf
+Size: 0.02 MB
+ID: 0B_56Cdb8fwlbYzUzS2I3LUx2N0k
+--------------------
+Name: ASEE Improvements in year 2 RET.pdf
+Size: 0.22 MB
+ID: 0B_56Cdb8fwlbMkVMS0pjbnhySVU
+--------------------
+Name: ASEE RET link to teacher practice and student achievement.pdf
+Size: 0.37 MB
+ID: 0B_56Cdb8fwlbdFZjVEt0X1BVOWM
+--------------------
+Name: RET Effects on Confidence in teaching STEM.pdf
+Size: 0.23 MB
+ID: 0B_56Cdb8fwlbS2x1UTNkQ2xKcEk
+--------------------
+Name: Concerns Based Assessment Model.pdf
+Size: 0.33 MB
+ID: 0B_56Cdb8fwlbRkxRbmlNMDBOTEU
+--------------------
+Name: ASEE Lessons learned from first year RET.pdf
+Size: 0.34 MB
+ID: 0B_56Cdb8fwlbVHlPSW1Rc0NOM0U
+--------------------
+Name: Science discourse through collaborative concept mapping new perspectives for the teacher.pdf
+Size: 1.48 MB
+ID: 0B_56Cdb8fwlbeEx0NUkzUUpGaVk
+--------------------
+Name: major research trends in collaborative concept mapping CCM.pdf
+Size: 0.11 MB
+ID: 0B_56Cdb8fwlbbTdqckdxZ09rUnM
+--------------------
+Name: Collaborative Learning Tools Theory APA standards +++.pdf
+Size: 0.12 MB
+ID: 0B_56Cdb8fwlbekVxYTZBTEJEVE0
+--------------------
+Name: participation RET impact on perceptions and efficacy to teach engineering ASEE.pdf
+Size: 0.18 MB
+ID: 0B_56Cdb8fwlbMVYxYWpUX1Q1NlE
+--------------------
+Name: Measure Eng Design self efficacy Carberry_et_al-2010-Journal_of_Engineering_Education.pdf
+Size: 2.13 MB
+ID: 0B_56Cdb8fwlbcnQzUmlSbmk2Qmc
+--------------------
+Name: Rachelle Rasco.pdf
+Size: 0.19 MB
+ID: 0B_56Cdb8fwlbSHJmRVRla1M3Vms
+--------------------
+Name: RET_Water ECubeG_Flyer.pdf
+Size: 1.25 MB
+ID: 0B_56Cdb8fwlbYU1SVnFNdFZIN00
+--------------------
+Name: Alicia Lowe.pdf
+Size: 0.73 MB
+ID: 0B_56Cdb8fwlbMUJmUlRtUjRXWlk
+--------------------
+Name: Yangsoo Kim.pdf
+Size: 0.36 MB
+ID: 0B_56Cdb8fwlba08yTzk3cjE0S00
+--------------------
+Name: Todd Baker.pdf
+Size: 0.61 MB
+ID: 0B_56Cdb8fwlba0tqWi1VdUFlNlE
+--------------------
+Name: Shawn Becker.pdf
+Size: 0.13 MB
+ID: 0B_56Cdb8fwlbVW9NNlZkaWJJdkE
+--------------------
+Name: Stewart Colley.pdf
+Size: 0.15 MB
+ID: 0B_56Cdb8fwlbSmZTa3BhVTlWRTg
+--------------------
+Name: Karen Perry-Carroll.pdf
+Size: 0.53 MB
+ID: 0B_56Cdb8fwlbbW53X2lySnY4MTQ
+--------------------
+Name: Katie Holcomb.pdf
+Size: 0.16 MB
+ID: 0B_56Cdb8fwlbYjBxWnR3aUhVM2M
+--------------------
+Name: Karen Hicks.pdf
+Size: 0.34 MB
+ID: 0B_56Cdb8fwlbYTlvaEFQZDFzbXM
+--------------------
+Name: Jodie Caldwell.pdf
+Size: 0.94 MB
+ID: 0B_56Cdb8fwlbVVVHaTVDQURtX1E
+--------------------
+Name: Joseph Jackson.pdf
+Size: 0.46 MB
+ID: 0B_56Cdb8fwlbTUpUREhvQ21yM3c
+--------------------
+Name: Mark Madden.pdf
+Size: 0.35 MB
+ID: 0B_56Cdb8fwlbRElXdVNudWNMMVU
+--------------------
+Name: Katharine Davis.pdf
+Size: 0.38 MB
+ID: 0B_56Cdb8fwlbOXVRTElhdkF0a0k
+--------------------
+Name: Shaunna Young.pdf
+Size: 0.35 MB
+ID: 0B_56Cdb8fwlbOUI3b3l4eUQ3S1U
+--------------------
+Name: Marc Patton.pdf
+Size: 0.28 MB
+ID: 0B_56Cdb8fwlbNWMySkFITU0tMU0
+--------------------
+Name: Mark England.pdf
+Size: 0.40 MB
+ID: 0B_56Cdb8fwlbM2VlLVJyamN2ZDQ
+--------------------
+Name: Dawn Hakkenberg.pdf
+Size: 3.52 MB
+ID: 0B_56Cdb8fwlbelZ6THg2MER5dHM
+--------------------
+Name: Christopher Barnes.pdf
+Size: 0.48 MB
+ID: 0B_56Cdb8fwlbeGxpUUtfcXRZUzg
+--------------------
+Name: Anna Delgado.pdf
+Size: 0.33 MB
+ID: 0B_56Cdb8fwlbd0g1ZHo1Qm5mMUE
+--------------------
+Name: Jason Worley.pdf
+Size: 0.53 MB
+ID: 0B_56Cdb8fwlbV0xsR1VxOTF0MGs
+--------------------
+Name: Earl Hughes.pdf
+Size: 0.65 MB
+ID: 0B_56Cdb8fwlbVVhzUnVnQnhOQ28
+--------------------
+Name: Cathryn Lenkiewicz.pdf
+Size: 0.29 MB
+ID: 0B_56Cdb8fwlbQzBsME9CbGtmb0k
+--------------------
+Name: Carla Corvin.pdf
+Size: 0.47 MB
+ID: 0B_56Cdb8fwlbNm1malR4QzBpUjQ
+--------------------
+Name: Single-pass 3D Lens Rendering and Spatiotemporal Time Warp Example.pdf
+Size: 1.64 MB
+ID: 0B_56Cdb8fwlbQnc1el9CWW10dUk
+--------------------
+Name: RET_Water ECubeG_Flyer2017.PDF
+Size: 0.66 MB
+ID: 0B_56Cdb8fwlbYUlQRzlpMFBXSW8
+--------------------
+Name: RET_Water ECubeG_Flyer2017_DraftZ.pdf
+Size: 1.19 MB
+ID: 0B_56Cdb8fwlbQ21GemFHRURHZzg
+--------------------
+Name: Copy of Contact LEWAS.pdf
+Size: 0.11 MB
+ID: 0Bw8WSyDfFnsYQ1ZZN3d5eFVyNVE
+--------------------
+Name: Copy of Science Fair Info Sheets.pdf
+Size: 0.40 MB
+ID: 0Bw8WSyDfFnsYMzQ0ZDNDOGdmaTg
+--------------------
+Name: Outreach Brochure.pdf
+Size: 1.01 MB
+ID: 0Bw8WSyDfFnsYYnFleU5jT0VOWWc
+--------------------
+Name: ScienceFairBrochure.pdf
+Size: 1.08 MB
+ID: 0Bw8WSyDfFnsYMHpCeTJ3S3VBdlk
+--------------------
+Name: Contact LEWAS.pdf
+Size: 0.11 MB
+ID: 0Bw8WSyDfFnsYQU5sc0d5RGFHRGM
+--------------------
+Name: Science Fair Info Sheets.pdf
+Size: 0.40 MB
+ID: 0Bw8WSyDfFnsYY0pjWjFROUpBaWM
+--------------------
+Name: WXT520_User_Guide_in_English.pdf
+Size: 1.53 MB
+ID: 0Bw8WSyDfFnsYZG01WFJRaXE3NE0
+--------------------
+Name: Argonaut-SW_Quick+Start+Guide.pdf
+Size: 0.23 MB
+ID: 0Bw8WSyDfFnsYWTFoaWxBOXpYODg
+--------------------
+Name: Hydrolab_MS5_Manual.pdf
+Size: 5.03 MB
+ID: 0Bw8WSyDfFnsYU3BVcU42M01ocTQ
+--------------------
+Name: H3LT_manual.pdf
+Size: 0.27 MB
+ID: 0Bw8WSyDfFnsYUGZqV2sxYW5lYWs
+--------------------
+Name: Argonaut-SW.pdf
+Size: 6.34 MB
+ID: 0Bw8WSyDfFnsYLXlJOG5ockI4MFk
+--------------------
+Name: Manual+for+6010+Tipping+Bucket+Rain+Gauge+Weathertronics.pdf
+Size: 1.14 MB
+ID: 0Bw8WSyDfFnsYQ0Z0TXFFSFVEeW8
+--------------------
+Name: Argonaut+Mounting+hex+screws.PDF
+Size: 0.10 MB
+ID: 0Bw8WSyDfFnsYZ2dMUk5BdldTajA
+--------------------
+Name: Argonaut-SW_Principles.pdf
+Size: 0.38 MB
+ID: 0Bw8WSyDfFnsYRFV1OE1fWGN5V0E
+--------------------
+Name: cRIO9072_Crossover_Cable_Software.pdf
+Size: 0.81 MB
+ID: 0Bw8WSyDfFnsYVThzTWE1Tl9PT2c
+--------------------
+Name: cRIO9072+manual.pdf
+Size: 1.40 MB
+ID: 0Bw8WSyDfFnsYc1p6WFZVYmVrOXc
+--------------------
+Name: LenovoLaptop.pdf
+Size: 7.43 MB
+ID: 0Bw8WSyDfFnsYeTFFX19UUXd0cGc
+--------------------
+Name: Model_2000_Manual.pdf
+Size: 0.69 MB
+ID: 0Bw8WSyDfFnsYVllnN2UxSlFYSmM
+--------------------
+Name: netcam-xl-brochure.pdf
+Size: 0.71 MB
+ID: 0Bw8WSyDfFnsYbndiQ3FjYUh6bWc
+--------------------
+Name: ViewArgonaut.pdf
+Size: 2.31 MB
+ID: 0Bw8WSyDfFnsYbFRSZy1PaV8xNWs
+--------------------
+Name: WET200_V10_UG_B_web.pdf
+Size: 3.00 MB
+ID: 0Bw8WSyDfFnsYVUtFeFZuWEx1Y0U
+--------------------
+Name: wl450Quickstart.pdf
+Size: 0.11 MB
+ID: 0Bw8WSyDfFnsYS0gzZjhWRnlsLTA
+--------------------
+Name: LEWAS_Lab_Installation_Plan2.pdf
+Size: 0.47 MB
+ID: 0Bw8WSyDfFnsYRzVwMkR3UE13bVU
+--------------------
+Name: ASEE-LEWAS_Final_Submission (1).pdf
+Size: 0.69 MB
+ID: 0Bw8WSyDfFnsYOE1TT0pvTEFEclE
+--------------------
+Name: _Final__Integrating_a_Real-Time_Remote_Watershed_Monitoring_Lab_into_Water_Sustai.pdf
+Size: 0.52 MB
+ID: 0Bw8WSyDfFnsYNlp6ZHRnbV9oM0E
+--------------------
+Name: _Final__Insights_and_Challenges_in_Developing_a_Remote_Real-Time_Watershed_Monito+_1_.pdf
+Size: 0.97 MB
+ID: 0Bw8WSyDfFnsYelVFTTZIa1lJRVk
+--------------------
+Name: The_Platform_Independent_Remote_Monitoring_System_v4.pdf
+Size: 0.69 MB
+ID: 0Bw8WSyDfFnsYNWhxVmp5LUZFcHM
+--------------------
+Name: Lesson+1.pdf
+Size: 0.07 MB
+ID: 0Bw8WSyDfFnsYZ0dYUURib01YaFE
+--------------------
+Name: Lesson+2.pdf
+Size: 0.07 MB
+ID: 0Bw8WSyDfFnsYUG1NWS03eFV6MzA
+--------------------
+Name: Lesson+4.pdf
+Size: 0.07 MB
+ID: 0Bw8WSyDfFnsYZW1CODBXLTcyZms
+--------------------
+Name: Lesson+5.pdf
+Size: 0.07 MB
+ID: 0Bw8WSyDfFnsYV1lhYWE1cUZRN0U
+--------------------
+Name: CEE_2814_HW1_F_2015.pdf
+Size: 0.15 MB
+ID: 0Bw8WSyDfFnsYODRrV0lydXNtREk
+--------------------
+Name: AME5740.002 Design Lesson 3 Decision Theory.pdf
+Size: 0.34 MB
+ID: 108HI46338hTqz_ieALYi58Jcoaa8PmNB
+--------------------
+Name: AME5740.002 Design Lesson 2 Conventional Methods.pdf
+Size: 0.57 MB
+ID: 10MncS8WNmhbyR99IgMck58-qoYDuy3_Q
+--------------------
+Name: AME5740.002 Design Lesson 1 e-Design.pdf
+Size: 0.01 MB
+ID: 10KMopjzzbzguwcJ5LARraHHv21ON6Vou
+--------------------
+Name: AME5740.002 Syllabus.pdf
+Size: 0.38 MB
+ID: 10G05yWpVS7fVVxYx9_NhaqzQ1B0NwWsD
+--------------------
