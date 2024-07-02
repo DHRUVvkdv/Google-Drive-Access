@@ -1,7 +1,11 @@
-Total FOLDER files found: 2641
+Total FOLDER files found: 2642
 Total size of FOLDER files: 0.00 MB
 
 List of FOLDER files:
+Name: Manuscript
+Size: 0.00 MB
+ID: 1IkRHJtu-AxdS-l3DFVth2sMgAhLmaV1h
+--------------------
 Name: Instruments
 Size: 0.00 MB
 ID: 1uxs-873gxrd-H6oBIg49b-nDgA8sRxEu
