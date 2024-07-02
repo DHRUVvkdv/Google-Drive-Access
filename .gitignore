@@ -1,6 +1,7 @@
-credentials.json
-token.json
-token.pickle
+// This file is used to ignore files and directories in the repository
+// For more information about .gitignore: https://git-scm.com/docs/gitignore
+secret/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

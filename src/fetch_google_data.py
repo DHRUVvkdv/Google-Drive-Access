@@ -1,6 +1,6 @@
 import os
-import argparse
 import json
+import argparse
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -8,8 +8,8 @@ from googleapiclient.discovery import build
 
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
 SHARED_DRIVE_ID = '0AGsI-FsgSjnKUk9PVA'
-TOKEN_FILE = 'token.json'
-CREDENTIALS_FILE = 'credentials.json'
+TOKEN_FILE = '../secret/token.json'
+CREDENTIALS_FILE = '../secret/credentials.json'
 
 FILE_TYPES = {
     'document': 'application/vnd.google-apps.document',
@@ -70,7 +70,7 @@ def list_files(file_type):
 
     return files
 
-def main(file_type):
+def fetch_and_store(file_type):
     files = list_files(file_type)
     total_size = sum(int(file.get('size', 0)) for file in files)
 
@@ -89,15 +89,15 @@ def main(file_type):
             "size_mb": round(size, 2)
         })
 
-    output_file = f'file_list_{file_type}.json'
-    with open(output_file, 'w', encoding='utf-8') as output:
-        json.dump(output_data, output, indent=2, ensure_ascii=False)
+    output_file = f'../data/json/file_list_{file_type}.json'
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(output_data, f, indent=2, ensure_ascii=False)
 
-    print(f"Output has been saved to {output_file}")
+    print(f"Data for {file_type} has been saved to {output_file}")
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='List files of a specific type in a shared drive.')
-    parser.add_argument('file_type', choices=FILE_TYPES.keys(), help='Type of files to list')
+    parser = argparse.ArgumentParser(description='Fetch and store Google Drive file data.')
+    parser.add_argument('file_type', choices=FILE_TYPES.keys(), help='Type of files to fetch')
     args = parser.parse_args()
 
-    main(args.file_type)
+    fetch_and_store(args.file_type)

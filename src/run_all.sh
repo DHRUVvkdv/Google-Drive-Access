@@ -7,7 +7,7 @@ file_types=("document" "spreadsheet" "presentation" "drawing" "form" "script" "s
 for type in "${file_types[@]}"
 do
     echo "Processing $type files..."
-    python3 script.py "$type"
+    python3 fetch_google_data.py "$type"
     echo "Finished processing $type files."
     echo ""
 done
