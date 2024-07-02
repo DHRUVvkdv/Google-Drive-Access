@@ -1,5 +1,6 @@
 import os
 import argparse
+import json
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -10,7 +11,6 @@ SHARED_DRIVE_ID = '0AGsI-FsgSjnKUk9PVA'
 TOKEN_FILE = 'token.json'
 CREDENTIALS_FILE = 'credentials.json'
 
-# Define all possible Google Workspace document types
 FILE_TYPES = {
     'document': 'application/vnd.google-apps.document',
     'spreadsheet': 'application/vnd.google-apps.spreadsheet',
@@ -74,18 +74,24 @@ def main(file_type):
     files = list_files(file_type)
     total_size = sum(int(file.get('size', 0)) for file in files)
 
-    output_file = f'file_list_{file_type}.txt'
-    with open(output_file, 'w', encoding='utf-8') as output:
-        output.write(f"Total {file_type.upper()} files found: {len(files)}\n")
-        output.write(f"Total size of {file_type.upper()} files: {total_size / (1024*1024):.2f} MB\n\n")
-        output.write(f"List of {file_type.upper()} files:\n")
+    output_data = {
+        "file_type": file_type,
+        "total_files": len(files),
+        "total_size_mb": round(total_size / (1024*1024), 2),
+        "files": []
+    }
 
-        for file in files:
-            size = int(file.get('size', 0)) / (1024*1024)
-            output.write(f"Name: {file['name']}\n")
-            output.write(f"Size: {size:.2f} MB\n")
-            output.write(f"ID: {file['id']}\n")
-            output.write("--------------------\n")
+    for file in files:
+        size = int(file.get('size', 0)) / (1024*1024)
+        output_data["files"].append({
+            "name": file['name'],
+            "id": file['id'],
+            "size_mb": round(size, 2)
+        })
+
+    output_file = f'file_list_{file_type}.json'
+    with open(output_file, 'w', encoding='utf-8') as output:
+        json.dump(output_data, output, indent=2, ensure_ascii=False)
 
     print(f"Output has been saved to {output_file}")
 
