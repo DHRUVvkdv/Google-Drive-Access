@@ -34,4 +34,4 @@ async def get_file_id(file_type: str = Query(..., description="Type of files to 
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    uvicorn.run(app, host="127.0.0.1", port=8001)

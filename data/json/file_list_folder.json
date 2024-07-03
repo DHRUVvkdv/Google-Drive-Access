@@ -1,8 +1,38 @@
 {
   "file_type": "folder",
-  "total_files": 2642,
+  "total_files": 2648,
   "total_size_mb": 0.0,
   "files": [
+    {
+      "name": "PDFs",
+      "id": "1ASfaSjU5PDagFR22YiYXucV_QBVo6dkk",
+      "size_mb": 0.0
+    },
+    {
+      "name": "Data",
+      "id": "1m8Cc9dNnEZl2VgOIx4UruRPWqOChFp5C",
+      "size_mb": 0.0
+    },
+    {
+      "name": "Chatbot",
+      "id": "1ReVvsMJG1vT44NIcD0Zt2ZgP3vLdn8dI",
+      "size_mb": 0.0
+    },
+    {
+      "name": "Projects",
+      "id": "1TsBmTFeMvScYNalATuckZCudlFPrwO_5",
+      "size_mb": 0.0
+    },
+    {
+      "name": "Dhruv",
+      "id": "1UlAhzA8R6s0W02MGczXRn2xaWnK0PiDD",
+      "size_mb": 0.0
+    },
+    {
+      "name": "Computer Science",
+      "id": "1Z5rKDgWNszYwlxzYpDNFYccoFEP7BHqY",
+      "size_mb": 0.0
+    },
     {
       "name": "Manuscript",
       "id": "1IkRHJtu-AxdS-l3DFVth2sMgAhLmaV1h",

@@ -1,8 +1,33 @@
 {
   "file_type": "pdf",
-  "total_files": 585,
-  "total_size_mb": 1272.27,
+  "total_files": 590,
+  "total_size_mb": 1273.54,
   "files": [
+    {
+      "name": "resume.pdf",
+      "id": "1YHNPoEA_Q75qcsJdhaU-v5DuGWzenTPL",
+      "size_mb": 0.13
+    },
+    {
+      "name": "Summary for Vinod Lohani.pdf",
+      "id": "1iWqYNMWYNGnJztKz2bFXY0PuyYcyZ3uH",
+      "size_mb": 0.04
+    },
+    {
+      "name": "Summary for Yunus Naseri.pdf",
+      "id": "16cGlG2QIY5seqQFvSwtXAA3tUnNU8IJS",
+      "size_mb": 0.03
+    },
+    {
+      "name": "Summary for Akshat Kothyari.pdf",
+      "id": "1K5tdNa9983WUSOcyaWIlf0X7bu2ACwY1",
+      "size_mb": 0.03
+    },
+    {
+      "name": "How_sys_network_works.pdf",
+      "id": "1GzXo0h3Z74SNnB7z4Ok556HI_aTnXUpa",
+      "size_mb": 1.05
+    },
     {
       "name": "On-boarding_document.pdf",
       "id": "1KszzuZXZGSagiLKSHYu1S2wklZ_KIlBl",
